@@ -1,0 +1,224 @@
+kod,vyucujici,role,uci_v_zs,obdobi_pocet,prvni_rok,posledni_rok,roky,obdobi,odpovedi,prumer_vyucujici,prumer_predmet,komentaru,zdroj
+NAIL002,"doc. RNDr. Iveta Mrázová, CSc.",přednáška,1,15,2003,2025,2003Z|2007Z|2008Z|2011Z|2013Z|2015Z|2016Z|2017Z|2018Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2003 / zimní|2007 / zimní|2008 / zimní|2011 / zimní|2013 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,141,,,5,anketa_cisla
+NAIL002,"RNDr. František Mráz, CSc.",cvičení,1,14,2006,2024,2006Z|2007Z|2008Z|2011Z|2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2020Z|2021Z|2023Z|2024Z,2006 / zimní|2007 / zimní|2008 / zimní|2011 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní,139,,"1,67",7,anketa_cisla
+NAIL002,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,5,komentare
+NAIL002,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,9,komentare
+NAIL002,"RNDr. František Mráz, CSc.",přednáška,0,7,2015,2024,2015Z|2016Z|2017Z|2018Z|2021Z|2023Z|2024Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2021 / zimní|2023 / zimní|2024 / zimní,54,,"1,80",3,anketa_cisla
+NAIL002,"doc. RNDr. Iveta Mrázová, CSc.",cvičení,0,8,2015,2024,2015Z|2016Z|2017Z|2018Z|2020Z|2021Z|2023Z|2024Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní,77,,,1,anketa_cisla
+NAIL004,"prof. RNDr. Roman Barták, Ph.D.",cvičení,1,4,2014,2024,2014Z|2019Z|2023Z|2024Z,2014 / zimní|2019 / zimní|2023 / zimní|2024 / zimní,24,,"1,04",0,anketa_cisla
+NAIL004,,seminář,0,0,2023,2024,2023|2024,,0,,,5,komentare
+NAIL004,"doc. RNDr. Pavel Surynek, Ph.D.",cvičení,0,4,2014,2024,2014Z|2019Z|2023Z|2024Z,2014 / zimní|2019 / zimní|2023 / zimní|2024 / zimní,24,,,0,anketa_cisla
+NAIL004,"prof. RNDr. Roman Barták, Ph.D.",seminář,0,0,2023,2024,2023|2024,,0,,,2,komentare
+NAIL013,"doc. RNDr. Iveta Mrázová, CSc.",přednáška,0,2,2011,2018,2011L|2018L,2011 / letní|2018 / letní,12,,,0,anketa_cisla
+NAIL015,"RNDr. Petr Božovský, CSc.",cvičení,0,1,2014,2014,2014L,2014 / letní,6,,,0,anketa_cisla
+NAIL015,"RNDr. Petr Božovský, CSc.",přednáška,0,1,2014,2014,2014L,2014 / letní,6,,,0,anketa_cisla
+NAIL021,"prof. RNDr. Ondřej Čepek, Ph.D.",přednáška,1,3,2013,2015,2013Z|2014Z|2015Z,2013 / zimní|2014 / zimní|2015 / zimní,22,,,1,anketa_cisla
+NAIL021,,přednáška,0,0,2025,2025,2025,,0,,,1,komentare
+NAIL025,"Mgr. Roman Neruda, CSc.",přednáška,1,17,2004,2025,2004L|2005L|2007Z|2010Z|2011Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2004 / letní|2005 / letní|2007 / zimní|2010 / zimní|2011 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,182,,"1,15",13,anketa_cisla
+NAIL025,"doc. Mgr. Martin Pilát, Ph.D.",cvičení,1,17,2009,2025,2009Z|2010Z|2011Z|2012Z|2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2009 / zimní|2010 / zimní|2011 / zimní|2012 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,180,,"1,11",10,anketa_cisla
+NAIL025,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,8,komentare
+NAIL025,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,13,komentare
+NAIL025,"RNDr. Petra Vidnerová, Ph.D.",cvičení,0,12,2007,2025,2007Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2007 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,133,,,0,anketa_cisla
+NAIL025,"RNDr. Petra Vidnerová, Ph.D.",přednáška,0,11,2015,2025,2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,131,,,0,anketa_cisla
+NAIL025,"doc. Mgr. Martin Pilát, Ph.D.",přednáška,0,3,2023,2025,2023Z|2024Z|2025Z,2023 / zimní|2024 / zimní|2025 / zimní,40,,"1,08",7,anketa_cisla
+NAIL029,,přednáška,0,0,2023,2024,2023|2024,,0,,,2,komentare
+NAIL029,"Mgr. Marta Vomlelová, Ph.D.",přednáška,0,6,2011,2019,2011L|2013L|2014L|2015L|2017L|2019L,2011 / letní|2013 / letní|2014 / letní|2015 / letní|2017 / letní|2019 / letní,47,,,2,anketa_cisla
+NAIL052,"prof. RNDr. Roman Barták, Ph.D.",cvičení,0,2,2013,2014,2013L|2014L,2013 / letní|2014 / letní,12,,,0,anketa_cisla
+NAIL052,"doc. RNDr. Pavel Surynek, Ph.D.",cvičení,0,1,2013,2013,2013L,2013 / letní,6,,,0,anketa_cisla
+NAIL060,"RNDr. Petr Božovský, CSc.",přednáška,0,4,2015,2018,2015Z|2016Z|2017Z|2018Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní,25,,,0,anketa_cisla
+NAIL060,"RNDr. Petr Božovský, CSc.",cvičení,0,3,2015,2017,2015Z|2016Z|2017Z,2015 / zimní|2016 / zimní|2017 / zimní,18,,,0,anketa_cisla
+NAIL065,,přednáška,0,0,2022,2022,2022,,0,,,1,komentare
+NAIL065,"RNDr. František Mráz, CSc.",cvičení,0,3,2013,2015,2013L|2014L|2015L,2013 / letní|2014 / letní|2015 / letní,22,,,0,anketa_cisla
+NAIL065,"RNDr. František Mráz, CSc.",přednáška,0,3,2013,2015,2013L|2014L|2015L,2013 / letní|2014 / letní|2015 / letní,17,,,1,anketa_cisla
+NAIL069,"RNDr. Jiří Švancara, Ph.D.",cvičení,1,5,2021,2025,2021Z|2022Z|2023Z|2024Z|2025Z,2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,61,,"1,45",9,anketa_cisla
+NAIL069,"prof. RNDr. Roman Barták, Ph.D.",přednáška,1,18,2007,2025,2007Z|2008Z|2010Z|2011Z|2012Z|2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2007 / zimní|2008 / zimní|2010 / zimní|2011 / zimní|2012 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,263,,"1,37",9,anketa_cisla
+NAIL069,"RNDr. Jiří Fink, Ph.D.",cvičení,1,1,2021,2021,2021Z,2021 / zimní,10,,"2,00",1,anketa_cisla
+NAIL069,Mestek Jakub,cvičení,1,0,,,,,0,,,0,rozvrh
+NAIL069,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,10,komentare
+NAIL069,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,8,komentare
+NAIL069,"Mgr. Marta Vomlelová, Ph.D.",cvičení,0,11,2015,2025,2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,180,,,0,anketa_cisla
+NAIL069,"Mgr. Marta Vomlelová, Ph.D.",přednáška,0,12,2004,2025,2004Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2023Z|2024Z|2025Z,2004 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,191,,,0,anketa_cisla
+NAIL069,"Adam Dingle, M.Sc.",cvičení,0,3,2018,2020,2018Z|2019Z|2020Z,2018 / zimní|2019 / zimní|2020 / zimní,32,,"1,11",0,anketa_cisla
+NAIL069,"RNDr. Ing. Otakar Trunda, Ph.D.",cvičení,0,4,2016,2020,2016Z|2018Z|2019Z|2020Z,2016 / zimní|2018 / zimní|2019 / zimní|2020 / zimní,33,,"1,81",0,anketa_cisla
+NAIL069,"Mgr. Jakub Gemrot, Ph.D.",cvičení,0,3,2015,2017,2015Z|2016Z|2017Z,2015 / zimní|2016 / zimní|2017 / zimní,42,,"1,69",0,anketa_cisla
+NAIL070,,přednáška,0,0,2024,2024,2024,,0,,,3,komentare
+NAIL070,"Mgr. Marta Vomlelová, Ph.D.",přednáška,0,8,2004,2024,2004L|2015L|2016L|2017L|2018L|2019L|2020L|2024L,2004 / letní|2015 / letní|2016 / letní|2017 / letní|2018 / letní|2019 / letní|2020 / letní|2024 / letní,73,,,0,anketa_cisla
+NAIL070,"prof. RNDr. Roman Barták, Ph.D.",přednáška,0,11,2010,2024,2010L|2011L|2013L|2014L|2015L|2016L|2017L|2018L|2019L|2020L|2024L,2010 / letní|2011 / letní|2013 / letní|2014 / letní|2015 / letní|2016 / letní|2017 / letní|2018 / letní|2019 / letní|2020 / letní|2024 / letní,123,,"1,29",1,anketa_cisla
+NAIL086,,cvičení,0,0,2024,2024,2024,,0,,,1,komentare
+NAIL086,"Mgr. Roman Neruda, CSc.",přednáška,0,8,2009,2019,2009L|2011L|2013L|2014L|2015L|2017L|2018L|2019L,2009 / letní|2011 / letní|2013 / letní|2014 / letní|2015 / letní|2017 / letní|2018 / letní|2019 / letní,58,,"1,28",0,anketa_cisla
+NAIL086,"doc. Mgr. Martin Pilát, Ph.D.",cvičení,0,6,2013,2019,2013L|2014L|2015L|2017L|2018L|2019L,2013 / letní|2014 / letní|2015 / letní|2017 / letní|2018 / letní|2019 / letní,50,,,0,anketa_cisla
+NAIL086,"doc. Mgr. Martin Pilát, Ph.D.",přednáška,0,4,2015,2019,2015L|2017L|2018L|2019L,2015 / letní|2017 / letní|2018 / letní|2019 / letní,29,,,0,anketa_cisla
+NAIL087,,cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NAIL087,,přednáška,0,0,2024,2025,2024|2025,,0,,,2,komentare
+NAIL087,"Mgr. Ján Antolík, Ph.D.",cvičení,0,1,2020,2020,2020Z,2020 / zimní,6,,"1,17",0,anketa_cisla
+NAIL087,"Mgr. Ján Antolík, Ph.D.",přednáška,0,1,2020,2020,2020Z,2020 / zimní,6,,"1,00",0,anketa_cisla
+NAIL087,"Mgr. et Mgr. Filip Děchtěrenko, Ph.D.",cvičení,0,2,2014,2020,2014Z|2020Z,2014 / zimní|2020 / zimní,12,,"1,50",0,anketa_cisla
+NAIL087,"Mgr. et Mgr. Filip Děchtěrenko, Ph.D.",přednáška,0,1,2020,2020,2020Z,2020 / zimní,6,,"1,83",0,anketa_cisla
+NAIL087,"doc. Mgr. Jiří Lukavský, Ph.D.",cvičení,0,3,2015,2020,2015Z|2018Z|2020Z,2015 / zimní|2018 / zimní|2020 / zimní,26,,,0,anketa_cisla
+NAIL087,"doc. Mgr. Jiří Lukavský, Ph.D.",přednáška,0,6,2010,2020,2010Z|2013Z|2014Z|2015Z|2018Z|2020Z,2010 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2018 / zimní|2020 / zimní,49,,,0,anketa_cisla
+NAIL087,"doc. Mgr. Cyril Brom, Ph.D.",cvičení,0,3,2013,2018,2013Z|2015Z|2018Z,2013 / zimní|2015 / zimní|2018 / zimní,26,,"1,69",0,anketa_cisla
+NAIL087,"doc. Mgr. Cyril Brom, Ph.D.",přednáška,0,6,2010,2018,2010Z|2011Z|2013Z|2014Z|2015Z|2018Z,2010 / zimní|2011 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2018 / zimní,50,,"1,54",0,anketa_cisla
+NAIL099,Holeňa Martin,cvičení,1,0,,,,,0,,,0,rozvrh
+NAIL099,,seminář,0,0,2025,2025,2025,,0,,,1,komentare
+NAIL104,"Mgr. Marta Vomlelová, Ph.D.",přednáška,1,1,2020,2020,2020Z,2020 / zimní,5,,,1,anketa_cisla
+NAIL106,,cvičení,0,0,2022,2022,2022,,0,,,1,komentare
+NAIL106,"Mgr. Roman Neruda, CSc.",přednáška,0,7,2013,2022,2013L|2014L|2015L|2017L|2018L|2019L|2022L,2013 / letní|2014 / letní|2015 / letní|2017 / letní|2018 / letní|2019 / letní|2022 / letní,56,,"1,40",1,anketa_cisla
+NAIL106,"doc. Mgr. Martin Pilát, Ph.D.",cvičení,0,7,2013,2022,2013L|2014L|2015L|2017L|2018L|2019L|2022L,2013 / letní|2014 / letní|2015 / letní|2017 / letní|2018 / letní|2019 / letní|2022 / letní,61,,,2,anketa_cisla
+NAIL106,"doc. Mgr. Martin Pilát, Ph.D.",přednáška,0,5,2015,2022,2015L|2017L|2018L|2019L|2022L,2015 / letní|2017 / letní|2018 / letní|2019 / letní|2022 / letní,33,,,0,anketa_cisla
+NAIL107,,cvičení,0,0,2023,2023,2023,,0,,,1,komentare
+NAIL107,,přednáška,0,0,2023,2023,2023,,0,,,2,komentare
+NAIL107,"RNDr. František Mráz, CSc.",cvičení,0,2,2015,2017,2015L|2017L,2015 / letní|2017 / letní,12,,,1,anketa_cisla
+NAIL107,"RNDr. František Mráz, CSc.",přednáška,0,2,2015,2017,2015L|2017L,2015 / letní|2017 / letní,12,,,3,anketa_cisla
+NAIL109,"Mgr. Roman Neruda, CSc.",cvičení,1,2,2015,2025,2015Z|2025Z,2015 / zimní|2025 / zimní,13,,"1,19",0,anketa_cisla
+NAIL109,,praktická cvičení,0,0,2025,2025,2025,,0,,,2,komentare
+NAIL109,"Mgr. Roman Neruda, CSc.",praktická cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NAIL109,"doc. Mgr. Martin Pilát, Ph.D.",cvičení,0,2,2015,2025,2015Z|2025Z,2015 / zimní|2025 / zimní,13,,,0,anketa_cisla
+NAIL116,"RNDr. František Mráz, CSc.",cvičení,1,0,2024,2024,2024,,0,,,1,komentare
+NAIL116,Mrázová Iveta,přednáška,1,0,,,,,0,,,0,rozvrh
+NAIL116,,cvičení,0,0,2024,2024,2024,,0,,,1,komentare
+NAIL116,"doc. RNDr. Iveta Mrázová, CSc.",cvičení,0,0,2024,2024,2024,,0,,,1,komentare
+NDBI021,"doc. Mgr. Ladislav Peška, Ph.D.",přednáška,1,1,2025,2025,2025Z,2025 / zimní,5,,,1,anketa_cisla
+NDBI021,Peška Ladislav,cvičení,1,0,,,,,0,,,0,rozvrh
+NDBI021,,přednáška,0,0,2024,2025,2024|2025,,0,,,2,komentare
+NDBI021,,seminář,0,0,2025,2025,2025,,0,,,1,komentare
+NDBI021,"doc. Mgr. Ladislav Peška, Ph.D.",seminář,0,0,2025,2025,2025,,0,,,1,komentare
+NDBI023,,přednáška,0,0,2024,2025,2024|2025,,0,,,3,komentare
+NDBI023,,cvičení,0,0,2024,2024,2024,,0,,,2,komentare
+NDBI023,"RNDr. František Mráz, CSc.",cvičení,0,3,2013,2024,2013L|2015L|2024L,2013 / letní|2015 / letní|2024 / letní,29,,"2,04",3,anketa_cisla
+NDBI023,"doc. RNDr. Iveta Mrázová, CSc.",cvičení,0,2,2015,2024,2015L|2024L,2015 / letní|2024 / letní,17,,,0,anketa_cisla
+NDBI023,"doc. RNDr. Iveta Mrázová, CSc.",přednáška,0,7,2004,2024,2004L|2008L|2011L|2013L|2014L|2015L|2024L,2004 / letní|2008 / letní|2011 / letní|2013 / letní|2014 / letní|2015 / letní|2024 / letní,53,,,1,anketa_cisla
+NDBI048,"doc. RNDr. Irena Holubová, Ph.D.",cvičení,1,0,2025,2025,2025,,0,,,1,komentare
+NDBI048,"doc. RNDr. Irena Holubová, Ph.D.",přednáška,1,1,2024,2024,2024Z,2024 / zimní,5,,,3,anketa_cisla
+NDBI048,,cvičení,0,0,2024,2025,2024|2025,,0,,,3,komentare
+NDBI048,,přednáška,0,0,2024,2025,2024|2025,,0,,,3,komentare
+NMAI060,"prof. RNDr. Jaromír Antoch, CSc.",přednáška,1,11,2006,2020,2006Z|2007Z|2008Z|2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z,2006 / zimní|2007 / zimní|2008 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní,181,,,0,anketa_cisla
+NMAI060,,přednáška,0,0,2024,2024,2024,,0,,,1,komentare
+NMAI060,"prof. RNDr. Jaromír Antoch, CSc.",cvičení,0,1,2014,2014,2014Z,2014 / zimní,17,,,0,anketa_cisla
+NMAI061,"prof. RNDr. Jaromír Antoch, CSc.",přednáška,0,0,2023,2023,2023,,0,,,1,komentare
+NMAI061,"doc. RNDr. Zdeněk Hlávka, Ph.D.",cvičení,0,1,2013,2013,2013L,2013 / letní,12,,,0,anketa_cisla
+NMAI061,"doc. RNDr. Zdeněk Hlávka, Ph.D.",přednáška,0,4,2007,2013,2007L|2008L|2011L|2013L,2007 / letní|2008 / letní|2011 / letní|2013 / letní,47,,,0,anketa_cisla
+NMAI073,"Mgr. Václav Rozhoň, Ph.D.",přednáška,1,0,2025,2025,2025,,0,,,1,komentare
+NMAI073,"Bc. Josef Tkadlec, Ph.D.",cvičení,1,1,2024,2024,2024Z,2024 / zimní,7,,,7,anketa_cisla
+NMAI073,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,7,komentare
+NMAI073,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,9,komentare
+NMAI073,"Bc. Josef Tkadlec, Ph.D.",přednáška,0,4,2021,2024,2021Z|2022Z|2023Z|2024Z,2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní,23,,,0,anketa_cisla
+NMAI073,"doc. Mgr. Robert Šámal, Ph.D.",přednáška,0,4,2021,2024,2021Z|2022Z|2023Z|2024Z,2021 / zimní|2022 / zimní|2023 / zimní|2024 / zimní,23,,"1,63",8,anketa_cisla
+NMAI073,"doc. Mgr. Robert Šámal, Ph.D.",cvičení,0,0,2023,2023,2023,,0,,,2,komentare
+NMAI165,"prof. RNDr. Jaromír Antoch, CSc.",cvičení,1,2,2018,2019,2018Z|2019Z,2018 / zimní|2019 / zimní,16,,,1,anketa_cisla
+NMAI165,,cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NMSA331,Mgr. Hedvika Ranošová,cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NMSA331,"doc. Ing. Marek Omelka, Ph.D.",cvičení,0,11,2013,2025,2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z|2025Z,2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní|2025 / zimní,144,,,1,anketa_cisla
+NMSA331,,přednáška,0,0,2024,2024,2024,,0,,,1,komentare
+NMSA331,"doc. Ing. Marek Omelka, Ph.D.",přednáška,0,8,2015,2022,2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2022Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní,119,,,0,anketa_cisla
+NMSA331,"doc. Mgr. Stanislav Nagy, Ph.D.",cvičení,0,5,2018,2022,2018Z|2019Z|2020Z|2021Z|2022Z,2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2022 / zimní,40,,"1,36",0,anketa_cisla
+NMSA331,"prof. RNDr. Arnošt Komárek, Ph.D.",přednáška,0,1,2022,2022,2022Z,2022 / zimní,9,,"1,33",1,anketa_cisla
+NMSA331,"doc. RNDr. Šárka Hudecová, Ph.D.",cvičení,0,5,2017,2021,2017Z|2018Z|2019Z|2020Z|2021Z,2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní,41,,"1,21",0,anketa_cisla
+NMSA331,"doc. Mgr. Michal Kulich, Ph.D.",přednáška,0,2,2015,2016,2015Z|2016Z,2015 / zimní|2016 / zimní,32,,"1,78",0,anketa_cisla
+NMSA331,"doc. RNDr. Daniel Hlubinka, Ph.D.",cvičení,0,3,2013,2015,2013Z|2014Z|2015Z,2013 / zimní|2014 / zimní|2015 / zimní,39,,"2,64",0,anketa_cisla
+NMSA331,"prof. RNDr. Jiří Anděl, DrSc.",přednáška,0,3,2012,2014,2012Z|2013Z|2014Z,2012 / zimní|2013 / zimní|2014 / zimní,46,,,0,anketa_cisla
+NOPT021,Schmid Martin,přednáška,1,0,,,,,0,,,0,rozvrh
+NOPT021,,přednáška,0,0,2024,2025,2024|2025,,0,,,2,komentare
+NOPT021,Mgr. Radovan Haluška,cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NOPT021,"prof. RNDr. Karel Zimmermann, DrSc.",přednáška,0,1,2017,2017,2017Z,2017 / zimní,5,,,0,anketa_cisla
+NOPT046,,cvičení,0,0,2024,2025,2024|2025,,0,,,2,komentare
+NOPT046,,přednáška,0,0,2022,2025,2022|2024|2025,,0,,,3,komentare
+NOPT046,"prof. RNDr. Martin Loebl, CSc.",cvičení,0,0,2023,2025,2023|2024|2025,,0,,,3,komentare
+NOPT046,"prof. RNDr. Martin Loebl, CSc.",přednáška,0,0,2022,2025,2022|2023|2024|2025,,0,,,4,komentare
+NOPT046,"doc. Hans Raj Tiwary, M.Sc., Ph.D.",cvičení,0,1,2015,2015,2015L,2015 / letní,5,,,3,anketa_cisla
+NOPT046,"doc. Hans Raj Tiwary, M.Sc., Ph.D.",přednáška,0,1,2015,2015,2015L,2015 / letní,5,,,4,anketa_cisla
+NOPT046,"prof. Mgr. Milan Hladík, Ph.D.",cvičení,0,1,2015,2015,2015L,2015 / letní,5,,"2,00",1,anketa_cisla
+NOPT046,"prof. Mgr. Milan Hladík, Ph.D.",přednáška,0,1,2015,2015,2015L,2015 / letní,5,,"2,20",1,anketa_cisla
+NOPT046,"RNDr. Jan Palata, CSc.",cvičení,0,3,2004,2009,2004Z|2005L|2009L,2004 / zimní|2005 / letní|2009 / letní,20,,,0,anketa_cisla
+NOPT046,"doc. RNDr. Libuše Grygarová, DrSc.",přednáška,0,3,2004,2007,2004Z|2005L|2007L,2004 / zimní|2005 / letní|2007 / letní,18,,,0,anketa_cisla
+NPFL097,"RNDr. David Mareček, Ph.D.",přednáška,1,0,2025,2025,2025,,0,,,3,komentare
+NPFL097,"RNDr. David Mareček, Ph.D.",cvičení,1,1,2014,2014,2014Z,2014 / zimní,5,,,0,anketa_cisla
+NPFL097,,cvičení,0,0,2024,2025,2024|2025,,0,,,2,komentare
+NPFL097,,přednáška,0,0,2024,2025,2024|2025,,0,,,4,komentare
+NPFL097,"prof. Ing. Zdeněk Žabokrtský, Ph.D.",cvičení,0,1,2014,2014,2014Z,2014 / zimní,5,,,0,anketa_cisla
+NPFL099,Dušek Ondřej,cvičení,1,0,,,,,0,,,0,rozvrh
+NPFL099,Dušek Ondřej,přednáška,1,0,,,,,0,,,0,rozvrh
+NPFL099,,přednáška,0,0,2023,2024,2023|2024,,0,,,2,komentare
+NPFL099,,seminář,0,0,2024,2024,2024,,0,,,1,komentare
+NPFL099,"Mgr. et Mgr. Ondřej Dušek, Ph.D.",přednáška,0,0,2023,2024,2023|2024,,0,,,2,komentare
+NPFL103,,seminář,0,0,2024,2024,2024,,0,,,1,komentare
+NPFL103,"doc. RNDr. Pavel Pecina, Ph.D.",cvičení,0,1,2019,2019,2019Z,2019 / zimní,5,,,0,anketa_cisla
+NPFL103,"doc. RNDr. Pavel Pecina, Ph.D.",přednáška,0,3,2017,2019,2017Z|2018Z|2019Z,2017 / zimní|2018 / zimní|2019 / zimní,15,,,0,anketa_cisla
+NPFL104,"prof. Ing. Zdeněk Žabokrtský, Ph.D.",cvičení,0,2,2015,2017,2015L|2017L,2015 / letní|2017 / letní,13,,,0,anketa_cisla
+NPFL104,"prof. Ing. Zdeněk Žabokrtský, Ph.D.",přednáška,0,1,2017,2017,2017L,2017 / letní,7,,,0,anketa_cisla
+NPFL104,"prof. RNDr. Ondřej Bojar, Ph.D.",cvičení,0,2,2015,2017,2015L|2017L,2015 / letní|2017 / letní,13,,"1,92",0,anketa_cisla
+NPFL104,"prof. RNDr. Ondřej Bojar, Ph.D.",přednáška,0,1,2017,2017,2017L,2017 / letní,7,,"1,43",0,anketa_cisla
+NPFL118,,cvičení,0,0,2023,2025,2023|2025,,0,,,2,komentare
+NPFL118,"Mgr. Martin Popel, Ph.D.",cvičení,0,0,2023,2025,2023|2025,,0,,,2,komentare
+NPFL118,"RNDr. Milan Straka, Ph.D.",cvičení,0,0,2023,2025,2023|2025,,0,,,2,komentare
+NPFL118,"Mgr. Rudolf Rosa, Ph.D.",cvičení,0,0,2023,2023,2023,,0,,,1,komentare
+NPFL123,,cvičení,0,0,2023,2024,2023|2024,,0,,,5,komentare
+NPFL123,,přednáška,0,0,2023,2024,2023|2024,,0,,,4,komentare
+NPFL123,"Mgr. et Mgr. Ondřej Dušek, Ph.D.",cvičení,0,0,2022,2024,2022|2023|2024,,0,,,4,komentare
+NPFL123,"Mgr. et Mgr. Ondřej Dušek, Ph.D.",přednáška,0,1,2024,2024,2024L,2024 / letní,6,,,4,anketa_cisla
+NPFL138,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,14,komentare
+NPFL138,,cvičení,0,0,2023,2024,2023|2024,,0,,,5,komentare
+NPFL138,"RNDr. Milan Straka, Ph.D.",přednáška,0,2,2023,2024,2023L|2024L,2023 / letní|2024 / letní,48,,,14,anketa_cisla
+NPFL138,"RNDr. Milan Straka, Ph.D.",cvičení,0,1,2023,2023,2023L,2023 / letní,19,,,6,anketa_cisla
+NPFL139,,cvičení,0,0,2024,2024,2024,,0,,,2,komentare
+NPFL139,,přednáška,0,0,2023,2024,2023|2024,,0,,,4,komentare
+NPFL139,"RNDr. Milan Straka, Ph.D.",cvičení,0,2,2023,2024,2023L|2024L,2023 / letní|2024 / letní,16,,,2,anketa_cisla
+NPFL139,"RNDr. Milan Straka, Ph.D.",přednáška,0,2,2023,2024,2023L|2024L,2023 / letní|2024 / letní,19,,,2,anketa_cisla
+NPFL140,,seminář,0,0,2023,2025,2023|2024|2025,,0,,,4,komentare
+NPFL140,"Mgr. Jindřich Helcl, Ph.D.",cvičení,0,1,2023,2023,2023L,2023 / letní,5,,"1,40",0,anketa_cisla
+NPFL140,"Mgr. Jindřich Libovický, Ph.D.",cvičení,0,1,2023,2023,2023L,2023 / letní,5,,,0,anketa_cisla
+NPFL147,"Mgr. Jindřich Helcl, Ph.D.",cvičení,1,1,2025,2025,2025Z,2025 / zimní,8,,"2,25",3,anketa_cisla
+NPFL147,"doc. RNDr. Pavel Pecina, Ph.D.",přednáška,1,1,2025,2025,2025Z,2025 / zimní,9,,,2,anketa_cisla
+NPFL147,,cvičení,0,0,2025,2025,2025,,0,,,4,komentare
+NPFL147,,přednáška,0,0,2025,2025,2025,,0,,,3,komentare
+NPFL147,"doc. RNDr. Pavel Pecina, Ph.D.",cvičení,0,1,2025,2025,2025Z,2025 / zimní,10,,,2,anketa_cisla
+NPGR002,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,7,komentare
+NPGR002,"prof. Ing. Jan Flusser, DrSc.",přednáška,0,11,2003,2022,2003Z|2005Z|2009Z|2013Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2022Z,2003 / zimní|2005 / zimní|2009 / zimní|2013 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2022 / zimní,97,,,5,anketa_cisla
+NPGR035,,přednáška,0,0,2024,2025,2024|2025,,0,,,3,komentare
+NPGR035,"Kassem Anis Bouali, M.Sc.",cvičení,0,0,2025,2025,2025,,0,,,1,komentare
+NPGR035,Mgr. Matúš Goliaš,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,4,komentare
+NPGR035,"doc. RNDr. Elena Šikudová, Ph.D.",cvičení,0,2,2022,2025,2022Z|2025Z,2022 / zimní|2025 / zimní,10,,,1,anketa_cisla
+NPGR035,"doc. RNDr. Elena Šikudová, Ph.D.",přednáška,0,3,2022,2025,2022Z|2024Z|2025Z,2022 / zimní|2024 / zimní|2025 / zimní,16,,,3,anketa_cisla
+NPGR035,,cvičení,0,1,2022,2022,2022Z,2022 / zimní,5,,"1,20",2,anketa_cisla
+NPGR036,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,4,komentare
+NPGR036,Mgr. Matúš Goliaš,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,4,komentare
+NPGR036,,cvičení,0,2,2021,2024,2021L|2024L,2021 / letní|2024 / letní,12,,"1,83",4,anketa_cisla
+NPGR036,"doc. RNDr. Elena Šikudová, Ph.D.",cvičení,0,2,2021,2024,2021L|2024L,2021 / letní|2024 / letní,16,,,1,anketa_cisla
+NPGR036,"doc. RNDr. Elena Šikudová, Ph.D.",přednáška,0,2,2021,2024,2021L|2024L,2021 / letní|2024 / letní,17,,,4,anketa_cisla
+NPRG070,Bednárek David,cvičení,1,0,,,,,0,,,0,rozvrh
+NPRG071,,seminář,0,0,2025,2025,2025,,0,,,1,komentare
+NPRG072,,seminář,0,0,2024,2024,2024,,0,,,1,komentare
+NSWI035,"Mgr. Tomáš Faltín, Ph.D.",přednáška,1,1,2025,2025,2025Z,2025 / zimní,6,,"2,17",2,anketa_cisla
+NSWI035,"RNDr. Filip Zavoral, Ph.D.",přednáška,1,13,2004,2025,2004Z|2006Z|2011Z|2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2020Z|2021Z|2024Z|2025Z,2004 / zimní|2006 / zimní|2011 / zimní|2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2020 / zimní|2021 / zimní|2024 / zimní|2025 / zimní,131,,,3,anketa_cisla
+NSWI035,,přednáška,0,0,2023,2025,2023|2025,,0,,,6,komentare
+NSWI166,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,4,komentare
+NSWI166,"doc. Mgr. Ladislav Peška, Ph.D.",přednáška,0,3,2022,2024,2022Z|2023L|2024L,2022 / zimní|2023 / letní|2024 / letní,15,,,4,anketa_cisla
+NSWI166,,cvičení,0,0,2023,2023,2023,,0,,,1,komentare
+NSWI166,"doc. Mgr. Ladislav Peška, Ph.D.",cvičení,0,0,2023,2023,2023,,0,,,1,komentare
+NTIN066,"Mgr. Pavel Veselý, Ph.D.",cvičení,1,12,2017,2025,2017Z|2018Z|2018L|2019Z|2019L|2020Z|2021Z|2022Z|2023Z|2023L|2024Z|2025Z,2017 / zimní|2018 / zimní|2018 / letní|2019 / zimní|2019 / letní|2020 / zimní|2021 / zimní|2022 / zimní|2023 / zimní|2023 / letní|2024 / zimní|2025 / zimní,184,,,6,anketa_cisla
+NTIN066,Mgr. Petr Chmel,cvičení,1,0,2023,2025,2023|2024|2025,,0,,,7,komentare
+NTIN066,"RNDr. Jiří Fink, Ph.D.",cvičení,1,2,2023,2024,2023Z|2024Z,2023 / zimní|2024 / zimní,13,,"1,94",5,anketa_cisla
+NTIN066,"RNDr. Jiří Fink, Ph.D.",přednáška,1,5,2016,2024,2016Z|2017Z|2018Z|2022Z|2024Z,2016 / zimní|2017 / zimní|2018 / zimní|2022 / zimní|2024 / zimní,74,,"2,91",3,anketa_cisla
+NTIN066,Domes Tomáš,cvičení,1,0,,,,,0,,,0,rozvrh
+NTIN066,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,15,komentare
+NTIN066,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,18,komentare
+NTIN066,"Mgr. Pavel Veselý, Ph.D.",přednáška,0,16,2015,2025,2015Z|2016Z|2017Z|2018Z|2018L|2019Z|2019L|2020Z|2021Z|2021L|2022Z|2023Z|2023L|2024Z|2024L|2025Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2018 / letní|2019 / zimní|2019 / letní|2020 / zimní|2021 / zimní|2021 / letní|2022 / zimní|2023 / zimní|2023 / letní|2024 / zimní|2024 / letní|2025 / zimní,283,,,10,anketa_cisla
+NTIN066,"RNDr. Radek Hušek, Ph.D.",cvičení,0,5,2018,2024,2018L|2020Z|2022Z|2023Z|2024Z,2018 / letní|2020 / zimní|2022 / zimní|2023 / zimní|2024 / zimní,32,,"1,26",0,anketa_cisla
+NTIN066,"prof. Mgr. Michal Koucký, Ph.D.",přednáška,0,4,2014,2024,2014Z|2015Z|2021Z|2024L,2014 / zimní|2015 / zimní|2021 / zimní|2024 / letní,115,,"1,47",0,anketa_cisla
+NTIN066,"Mgr. Martin Mareš, Ph.D.",přednáška,0,4,2017,2023,2017Z|2018L|2019Z|2023Z,2017 / zimní|2018 / letní|2019 / zimní|2023 / zimní,72,,"1,10",5,anketa_cisla
+NTIN066,"RNDr. David Mareček, Ph.D.",cvičení,0,1,2023,2023,2023L,2023 / letní,6,,"2,17",1,anketa_cisla
+NTIN066,"doc. Mgr. Petr Gregor, Ph.D.",přednáška,0,4,2019,2023,2019L|2020Z|2021L|2023L,2019 / letní|2020 / zimní|2021 / letní|2023 / letní,37,,"1,68",1,anketa_cisla
+NTIN066,"prof. Mgr. Michal Koucký, Ph.D.",cvičení,0,1,2021,2021,2021Z,2021 / zimní,6,,"1,50",0,anketa_cisla
+NTIN066,"RNDr. Ondřej Mička, Ph.D.",cvičení,0,3,2019,2020,2019L|2019Z|2020Z,2019 / letní|2019 / zimní|2020 / zimní,17,,"1,43",0,anketa_cisla
+NTIN066,"Mgr. Martin Mareš, Ph.D.",cvičení,0,1,2018,2018,2018L,2018 / letní,6,,"1,00",0,anketa_cisla
+NTIN066,"doc. Andreas Emil Feldmann, Dr.",přednáška,0,1,2016,2016,2016Z,2016 / zimní,10,,"3,50",0,anketa_cisla
+NTIN066,"prof. RNDr. Václav Koubek, DrSc.",přednáška,0,5,2003,2008,2003Z|2004Z|2006Z|2007Z|2008Z,2003 / zimní|2004 / zimní|2006 / zimní|2007 / zimní|2008 / zimní,124,,,0,anketa_cisla
+NTIN090,"Mgr. Vladan Majerech, Dr.",cvičení,1,10,2015,2025,2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2023Z|2024Z|2025Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,264,,,5,anketa_cisla
+NTIN090,"RNDr. Petr Kučera, Ph.D.",cvičení,1,11,2013,2025,2013Z|2014Z|2015Z|2016Z|2018Z|2019Z|2020Z|2021Z|2023Z|2024Z|2025Z,2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,189,,"1,52",14,anketa_cisla
+NTIN090,"RNDr. Petr Kučera, Ph.D.",přednáška,1,12,2013,2025,2013Z|2014Z|2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2023Z|2024Z|2025Z,2013 / zimní|2014 / zimní|2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,286,,"1,67",28,anketa_cisla
+NTIN090,,cvičení,0,0,2023,2025,2023|2024|2025,,0,,,15,komentare
+NTIN090,,přednáška,0,0,2023,2025,2023|2024|2025,,0,,,22,komentare
+NTIN090,"Mgr. Vladan Majerech, Dr.",přednáška,0,10,2015,2025,2015Z|2016Z|2017Z|2018Z|2019Z|2020Z|2021Z|2023Z|2024Z|2025Z,2015 / zimní|2016 / zimní|2017 / zimní|2018 / zimní|2019 / zimní|2020 / zimní|2021 / zimní|2023 / zimní|2024 / zimní|2025 / zimní,274,,,0,anketa_cisla
+NTIN090,"RNDr. Jakub Bulín, Ph.D.",cvičení,0,2,2020,2021,2020Z|2021Z,2020 / zimní|2021 / zimní,11,,"2,15",0,anketa_cisla
+NTIN090,"doc. Mgr. Petr Gregor, Ph.D.",cvičení,0,2,2013,2019,2013Z|2019Z,2013 / zimní|2019 / zimní,22,,"1,50",0,anketa_cisla
+NTIN090,"RNDr. Jiří Fink, Ph.D.",cvičení,0,1,2017,2017,2017Z,2017 / zimní,13,,"4,23",0,anketa_cisla
+NTIN090,"RNDr. Jiří Fink, Ph.D.",přednáška,0,1,2017,2017,2017Z,2017 / zimní,14,,"4,00",0,anketa_cisla

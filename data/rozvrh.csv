@@ -1,0 +1,62 @@
+kod,typ,paralelka,den,od,do,mistnost,ucitel,vybrano,poznamka,skr,sem
+NAIL002,přednáška,26aNAIL002p1,Po,12:20,13:50,S5,Mrázová Iveta,1,,2026,1
+NAIL002,přednáška,26aNAIL002p1,St,14:00,15:30,S5,Mrázová Iveta,1,,2026,1
+NAIL002,cvičení,26aNAIL002x01,St,12:20,13:50,SU2,Mráz František,,,2026,1
+NAIL002,cvičení,26aNAIL002x02,Pá,10:40,12:10,SU2,Mráz František,,,2026,1
+NAIL004,cvičení,26aNAIL004x01,Po,17:20,18:50,S10,Barták Roman,1,,2026,1
+NAIL021,přednáška,26aNAIL021p1,St,9:00,10:30,S11,Čepek Ondřej,1,,2026,1
+NAIL025,přednáška,26aNAIL025p1,Pá,10:40,12:10,S3,Neruda Roman,1,,2026,1
+NAIL025,cvičení,26aNAIL025x01,Po,12:20,13:50,SU2,Pilát Martin,,,2026,1
+NAIL025,cvičení,26aNAIL025x02,Čt,12:20,13:50,SW2,Pilát Martin,,15 týdnů,2026,1
+NAIL025,cvičení,26aNAIL025x03,Po,14:00,15:30,SU2,Pilát Martin,,,2026,1
+NAIL069,přednáška,26aNAIL069p1,Po,10:40,12:10,S3,Barták Roman,1,,2026,1
+NAIL069,přednáška,26aNAIL069p2,Po,14:00,15:30,S5,Barták Roman,1,,2026,1
+NAIL069,cvičení,26aNAIL069x01,Po,9:00,10:30,S1,Švancara Jiří,,sudé týdny,2026,1
+NAIL069,cvičení,26aNAIL069x02,Po,9:00,10:30,S1,Švancara Jiří,,liché týdny,2026,1
+NAIL069,cvičení,26aNAIL069x03,Pá,12:20,13:50,S1,Fink Jiří,,sudé týdny,2026,1
+NAIL069,cvičení,26aNAIL069x04,Pá,12:20,13:50,S1,Fink Jiří,,liché týdny,2026,1
+NAIL069,cvičení,26aNAIL069x05,Pá,9:00,10:30,S8,Mestek Jakub,,sudé týdny,2026,1
+NAIL099,cvičení,26aNAIL099x01,Čt,14:00,15:30,S8,Holeňa Martin,1,liché týdny,2026,1
+NAIL104,přednáška,26aNAIL104p1,Pá,9:00,10:30,S4,Vomlelová Marta,1,,2026,1
+NAIL109,cvičení,26aNAIL109x01,Čt,15:40,17:10,S4,Neruda Roman,1,,2026,1
+NAIL109,cvičení,26aNAIL109x01,Čt,17:20,18:50,S4,Neruda Roman,1,,2026,1
+NAIL116,přednáška,26aNAIL116p1,Út,12:20,13:50,S4,Mrázová Iveta,1,,2026,1
+NAIL116,cvičení,26aNAIL116x01,Út,17:20,18:50,SU2,Mráz František,,,2026,1
+NAIL116,cvičení,26aNAIL116x02,St,17:20,18:50,SU2,Mráz František,,,2026,1
+NDBI021,přednáška,26aNDBI021p1,Čt,15:40,17:10,S5,Peška Ladislav,1,,2026,1
+NDBI021,cvičení,26aNDBI021x01,Čt,17:20,18:50,S5,Peška Ladislav,1,liché týdny,2026,1
+NDBI048,přednáška,26aNDBI048p1,St,9:00,10:30,S9,Holubová Irena,1,,2026,1
+NDBI048,cvičení,26aNDBI048x01,St,10:40,12:10,S9,Holubová Irena,1,,2026,1
+NMAI060,přednáška,26aNMAI060p1,St,12:20,13:50,S8,Antoch Jaromír,1,,2026,1
+NMAI060,přednáška,26aNMAI060p2,St,15:40,17:10,S4,Antoch Jaromír,1,,2026,1
+NMAI073,přednáška,26aNMAI073p1,St,10:40,12:10,S5,Rozhoň Václav,1,,2026,1
+NMAI073,cvičení,26aNMAI073x01,Út,12:20,13:50,S6,Tkadlec Josef,,,2026,1
+NMAI073,cvičení,26aNMAI073x02,Út,14:00,15:30,S6,Tkadlec Josef,,,2026,1
+NMAI165,cvičení,26aNMAI165x01,St,17:20,18:50,S6,Antoch Jaromír,1,,2026,1
+NOPT021,přednáška,26aNOPT021p1,St,15:40,17:10,S3,Schmid Martin,1,,2026,1
+NPFL097,přednáška,26aNPFL097p1,St,12:20,13:05,S5,Mareček David,1,,2026,1
+NPFL097,cvičení,26aNPFL097x01,St,13:10,13:55,S5,Mareček David,1,,2026,1
+NPFL099,přednáška,26aNPFL099p1,Čt,14:00,15:30,S10,Dušek Ondřej,1,,2026,1
+NPFL099,cvičení,26aNPFL099x01,Čt,15:40,16:25,S10,Dušek Ondřej,1,sudé týdny,2026,1
+NPFL147,přednáška,26aNPFL147p1,Út,10:40,12:10,S5,Pecina Pavel,1,,2026,1
+NPFL147,cvičení,26aNPFL147x01,Út,12:20,13:50,S5,Helcl Jindřich,1,,2026,1
+NPRG070,cvičení,26aNPRG070x01,St,14:00,15:30,S7,Bednárek David,1,,2026,1
+NSWI035,přednáška,26aNSWI035p1,St,12:20,13:50,S4,Zavoral Filip,1,,2026,1
+NSWI035,přednáška,26aNSWI035p2,Út,10:40,12:10,S6,Faltín Tomáš,1,,2026,1
+NTIN066,přednáška,26aNTIN066p1,Út,14:00,15:30,S3,Fink Jiří,1,,2026,1
+NTIN066,cvičení,26aNTIN066x01,Čt,12:20,13:50,S7,Fink Jiří,,,2026,1
+NTIN066,cvičení,26aNTIN066x02,Po,10:40,12:10,S6,Fink Jiří,,,2026,1
+NTIN066,cvičení,26aNTIN066x03,Pá,9:00,10:30,S1,Veselý Pavel,,,2026,1
+NTIN066,cvičení,26aNTIN066x04,St,9:00,10:30,S1,Chmel Petr,,,2026,1
+NTIN066,cvičení,26aNTIN066x05,Čt,15:40,17:10,S6,Fink Jiří,,,2026,1
+NTIN066,cvičení,26aNTIN066x06,Čt,14:00,15:30,S7,Domes Tomáš,,,2026,1
+NTIN066,cvičení,26aNTIN066x07,Po,12:20,13:50,S10,Fink Jiří,,,2026,1
+NTIN090,přednáška,26aNTIN090p1,Út,12:20,13:50,S3,Kučera Petr,1,,2026,1
+NTIN090,přednáška,26aNTIN090p2,Po,10:40,12:10,S4,Kučera Petr,1,,2026,1
+NTIN090,cvičení,26aNTIN090x01,Po,14:00,15:30,S8,Majerech Vladan,,sudé týdny,2026,1
+NTIN090,cvičení,26aNTIN090x02,Po,14:00,15:30,S8,Majerech Vladan,,liché týdny,2026,1
+NTIN090,cvičení,26aNTIN090x03,Čt,14:00,15:30,S6,Majerech Vladan,,sudé týdny,2026,1
+NTIN090,cvičení,26aNTIN090x04,St,10:40,12:10,S8,Kučera Petr,,sudé týdny,2026,1
+NTIN090,cvičení,26aNTIN090x05,St,10:40,12:10,S8,Kučera Petr,,liché týdny,2026,1
+NTIN090,cvičení,26aNTIN090x06,St,12:20,13:50,S1,Kučera Petr,,liché týdny,2026,1
+NTIN090,cvičení,26aNTIN090x07,St,12:20,13:50,S1,Kučera Petr,,sudé týdny,2026,1

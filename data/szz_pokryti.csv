@@ -1,0 +1,108 @@
+okruh,tema,kod,sila,doklad
+SU,Učení s učitelem a bez učitele,NAIL029,hlavni,"učení bez učitele - nákupní košík (Apriori alg.), klastrování k-means, k-medoids, hierarchické"
+SU,Učení s učitelem a bez učitele,NAIL070,castecne,"Strojové učení: učení s učitelem, rozhodovací stromy, regrese, SVM, boosting; prohledávání prostoru hypotéz"
+SU,Učení s učitelem a bez učitele,NAIL107,castecne,"3. Metody učení s učitelem: klasifikace (rozhodovací stromy, Bayesovké klasifikátory, logistická regrese, diskriminační analýza, metoda nejbližších sousedů, Support vector machines, neuronově sítě, kombinování klasifikátorů - boosting)"
+SU,Učení s učitelem a bez učitele,NDBI023,castecne,"Základní principy strojového učení – učení s učitelem, samoorganizace, částečně řízené učení (semi-supervised learning)"
+SU,Učení s učitelem a bez učitele,NAIL138,castecne,"Učení s učitelem a bez učitele, posilované učení. Nejznámější metody učení s učitelem."
+SU,Zpětnovazební učení,NPFL139,hlavni,"Cílem kurzu je seznámení se zpětnovazebním učením využívajícím hluboké neuronové sítě, se zaměřením jak na teorii, tak na skutečnou implementaci."
+SU,Zpětnovazební učení,NAIL070,castecne,"učení pravděpodobnostních modelů, EM algoritmus; zpětnovazební učení."
+SU,Zpětnovazební učení,NPFL138,okrajove,Úvod do hlubokého zpětnovazebního učení
+SU,Zpětnovazební učení,NAIL025,okrajove,"Učení pravidel ""if-then"", makléřský algoritmus, Q-učení, produkční systémy."
+SU,Zpětnovazební učení,NAIL138,okrajove,"Učení s učitelem a bez učitele, posilované učení."
+SU,Teoretické aspekty strojového učení,NAIL029,castecne,"ohodnocování modelů (odhad chyby a interval spolehlivosti, krosvalidace, one-leave-out)"
+SU,Teoretické aspekty strojového učení,NAIL138,castecne,"Silný zákon velkých čísel pro učení neuronových sítí, předpoklady a tvrzení. Centrální limitní věta pro učení neuronových sítí, předpoklady a tvrzení."
+SU,Teoretické aspekty strojového učení,NAIL002,okrajove,"over-fitting and over-sizing, Vapnik-Chervonenkisova dimenze"
+SU,Teoretické aspekty strojového učení,NAIL099,okrajove,"Statistické učení, PAC učení."
+SU,Neorientované grafické modely,NAIL029,castecne,"pravděpodobnostní přístupy; neorientované grafické modely, gaussovské procesy a bayesovská optimalizace."
+SU,Neorientované grafické modely,NAIL104,castecne,"5) neorientované grafické modely,"
+SU,Neorientované grafické modely,NAIL107,okrajove,"5. Pravděpodobnostní grafické modely (Bayesovské sítě, Gaussovské sítě) a jejich aplikace (v genomice a systémové biologii)."
+SU,Gaussovské procesy,NAIL029,castecne,gaussovské procesy a bayesovská optimalizace
+SU,Gaussovské procesy,NAIL138,okrajove,"Náhradní modely založené na umělých neuronových sítích, gaussovských procesech, náhodných lesech a ordinální regresi."
+SU,Základní pojmy evolučních algoritmů,NAIL025,hlavni,"Modely evoluce - základní přístupy a pojmy. Populace, rekombinace. Ohodnocení úspěšnosti individua. · Genetické algoritmy. Zakódování řešené problému do chromozómu. Základní genetické operace, selekce, křížení, mutace."
+SU,Základní pojmy evolučních algoritmů,NAIL002,castecne,"6. Genetické algoritmy · Formulace optimalizačního problému, populace jedinců, základní genetické operátory - selekce, křížení, mutace."
+SU,Základní pojmy evolučních algoritmů,NAIL086,castecne,"Evoluční strategie, kooperace individuí, (1+1) ES, (m+1) ES, rychlost konvergence."
+SU,Hypotéza o stavebních blocích,NAIL025,hlavni,"Reprezentační schemata, vlastnosti, věta o schematech. Hypotéza o stavebních blocích. Věta o implicitním paralelismu."
+SU,Hypotéza o stavebních blocích,NAIL002,okrajove,Analýza konvergence - věta o schematech.
+SU,Aplikace evolučních algoritmů,NAIL086,hlavni,"EA a kombinatorické problémy. Řešení NP-úplných úloh, problém obchodního cestujícího, problém batohu."
+SU,Aplikace evolučních algoritmů,NAIL025,castecne,"Klasifikační systémy, adaptivní chování. Celulární automaty. Řešení kombinatorických problémů."
+SU,Aplikace evolučních algoritmů,NAIL138,castecne,"Stochastické optimalizační algoritmy, evoluční algoritmus CMA-ES (covariance matrix adaptation evolution strategy)."
+SU,Aplikace evolučních algoritmů,NAIL002,okrajove,Aplikace genetických algoritmů v oblasti umělých neuronových sítí.
+SU,Strojové učení v počítačové lingvistice,NPFL147,hlavni,Cílem je seznámit posluchače se základními pojmy z počítačové lingvistiky a se základy pravděpodobnostních a statistických metod pro jazykové modelování.
+SU,Strojové učení v počítačové lingvistice,NPFL138,castecne,"Zpracování přirozeného jazyka · Distribuovaná reprezentace slov · Reprezentace slov jako sekvence znaků · Transformer architektura · Přístupy pro morfologické značkování, rozpoznávání pojmenovaných entit, strojový překlad"
+SU,Strojové učení v počítačové lingvistice,NPFL140,castecne,"Předmět se věnuje velkým neuronovým jazykovým modelům. Pokrývá související teoretické koncepty, technické základy fungování a využití jazykových modelů."
+SU,Strojové učení v počítačové lingvistice,NPFL103,okrajove,Jazykové modely · Klasifikace textu · Shlukování dokumentů
+SU,Markovské modely biologických sekvencí,NPFL147,castecne,"5. Skryté Markovovy modely, značkování (tagging)"
+SU,Markovské modely biologických sekvencí,NAIL104,castecne,"2) bayesovské sítě, skryté markovské modely,"
+SU,Markovské modely biologických sekvencí,NAIL070,okrajove,"Práce s neurčitostí: pravděpodobnostní metody, Bayesovské sítě, Markovské modely."
+SU,Strategie pro detekci genů,NAIL107,okrajove,"její aplikace v genomice, proteomice a systémové biologii"
+SU,Predikce struktury proteinů,NAIL107,okrajove,"její aplikace v genomice, proteomice a systémové biologii"
+SU,Hledání motivů v DNA,NAIL107,okrajove,Cílem přednášky je představit několik oblastí využití strojového učení při zpracování biologických dat.
+NS,Modely pro učení s učitelem,NAIL002,hlavni,3. Dopředné sítě a algoritmus zpětného šíření · Algoritmus zpětného šíření - odvození adaptačních pravidel.
+NS,Modely pro učení s učitelem,NPFL138,hlavni,Dopředné hluboké neuronové sítě · Základní architektury a aktivační funkce · Optimalizační algoritmy pro trénování hlubokých modelů
+NS,Modely pro učení s učitelem,NAIL060,castecne,Metody a techniky implementace základních modelů neuronových sítí. Backpropagation.
+NS,Modely pro učení s učitelem,NAIL013,castecne,"Rekapitulace vybraných paradigmat NS (vrstevnaté neuronové sítě typu zpětného šíření, Hopfieldovy sítě, Kohonenovy mapy, hluboké neuronové sítě)."
+NS,Algoritmus zpětného šíření,NAIL002,hlavni,"Algoritmus zpětného šíření - odvození adaptačních pravidel. Trénovací, testovací a validační množina, různé strategie učení."
+NS,Algoritmus zpětného šíření,NAIL060,castecne,Metody a techniky implementace základních modelů neuronových sítí. Backpropagation.
+NS,Algoritmus zpětného šíření,NPFL138,castecne,Optimalizační algoritmy pro trénování hlubokých modelů
+NS,Strategie pro urychlení učení,NAIL060,hlavni,"Zvyšování efektivity modelů, příbuzné a odvozené modely. Volba modelu, topologie a velikosti sítě. Adaptivní strategie optimalizace sítí."
+NS,Strategie pro urychlení učení,NAIL002,castecne,"Trénovací, testovací a validační množina, různé strategie učení."
+NS,Strategie pro urychlení učení,NPFL138,castecne,Optimalizační algoritmy pro trénování hlubokých modelů · Regularizace hlubokých modelů
+NS,Strategie pro urychlení učení,NAIL138,castecne,Stochastický gradient. Stochastická metoda největšího spádu (SGD). Předpoklady a strategie metody SGD.
+NS,Regularizace a generalizace,NPFL138,hlavni,Regularizace hlubokých modelů · Klasická regularizace využívající penalizaci normou parametrů · Dropout · Label smoothing · Batch normalization · Víceúlohové učení
+NS,Regularizace a generalizace,NAIL002,castecne,"Interní reprezentace znalostí, generalizace, over-fitting and over-sizing, Vapnik-Chervonenkisova dimenze."
+NS,Regularizace a generalizace,NAIL013,castecne,"Přednáška je zaměřena na hlubší pochopení vlastností a funkcí vybraných modelů neuronových sítí - robustnost, generalizační schopnosti ap."
+NS,Regularizace a generalizace,NAIL138,castecne,"Dropout a učení sítě, dropout a regularizace. Dropout a týmy neuronových sítí."
+NS,Asociativní paměti a Hebbovské učení,NAIL002,hlavni,"4. Asociativní sítě · Umělé neuronové sítě se zpětnou vazbou, Hebbovské učení, kapacita paměti, atraktory, energetická funkce a konvergence ke stabilním stavům. · Asociativní paměti, bidirektivní asociativní paměť (BAM), Hopfieldův model, spojitý Hopfieldův model, simulované žíhání, Boltzmannův stroj. · Použití Hopfieldovy sítě k hledání suboptimálních řešení NP-úplných problémů."
+NS,Asociativní paměti a Hebbovské učení,NAIL015,castecne,"Metody a techniky implementace základních modelů neuronových sítí. Kohonenovy mapy, Hopfieldova síť. Neurální formulace úloh, transformace zadání."
+NS,Asociativní paměti a Hebbovské učení,NAIL013,okrajove,"Rekapitulace vybraných paradigmat NS (vrstevnaté neuronové sítě typu zpětného šíření, Hopfieldovy sítě, Kohonenovy mapy, hluboké neuronové sítě)."
+NS,Stochastické modely neuronových sítí,NAIL138,hlavni,"2. Umělé neuronové sítě založené na náhodnosti · ELM (extreme learning machine) sítě. Učení ELM sítí, optimalizační úloha pro učení ELM sítí. ELM sítě a náhodná projekce. Znáhodněné konvoluční neuronové sítě. ESN (echo state network) sítě."
+NS,Stochastické modely neuronových sítí,NAIL002,castecne,"Hopfieldův model, spojitý Hopfieldův model, simulované žíhání, Boltzmannův stroj."
+NS,Sítě s učením bez učitele,NAIL002,hlavni,"5. Samoorganizace a hybridní modely · Posilované učení bez učitele - Ojův algoritmus učení pro PCA. · Kohonenovy samoorganizační mapy a algoritmy pro jejich učení, laterální inhibice, topologické okolí."
+NS,Sítě s učením bez učitele,NAIL015,castecne,"Kohonenovy mapy, Hopfieldova síť."
+NS,Sítě s učením bez učitele,NDBI023,okrajove,"Klastrování založené na principu fuzzy množin (FCM-algoritmus), neuronový přístup a hierarchické klastrování."
+NS,"Modulární, hierarchické a hybridní modely",NAIL002,hlavni,"Algoritmus vstřícného šíření (Counter-propagation), RBF-sítě, adaptivní rezonance (ART). · Kaskádová korelace a modulární neuronové sítě - sítě lokálních expertů."
+NS,"Modulární, hierarchické a hybridní modely",NAIL138,okrajove,hierarická BNN
+NS,"Modulární, hierarchické a hybridní modely",NAIL086,okrajove,"Evoluční učení vah, hybridní přístupy."
+NS,Konvoluční neuronové sítě,NPFL138,hlavni,"Konvoluční neuronové sítě · Konvoluční a slučující (pooling) vrstvy · Architektury vhodné pro velmi hluboké konvoluční sítě · Modely pro rozpoznávání obrazu, detekci objektů a segmentaci obrazu"
+NS,Konvoluční neuronové sítě,NAIL138,okrajove,Znáhodněné konvoluční neuronové sítě.
+NS,Sítě typu DBN,NAIL002,okrajove,"simulované žíhání, Boltzmannův stroj"
+NS,Sítě typu DBN,NAIL138,okrajove,Dropout v boltzmannovských strojích a v lineární regresi.
+NS,LSTM sítě,NPFL138,hlavni,Rekurentní neuronové sítě · Základní rekurentní sítě a problémy jejich trénování · Long short-term memory · Gated recurrent units · Obousměrné a hluboké rekurentní sítě
+NS,LSTM sítě,NAIL138,okrajove,ESN (echo state network) sítě. Vývoj aktivity v ESN sítích.
+NS,Evoluční učení neuronových sítí,NAIL086,hlavni,"Genetické učení neuronových sítí. Vnitřní reprezentace, evoluce topologií. Evoluční učení vah, hybridní přístupy. Funkční ekvivalence sítí. Evoluce v procesu učení sítě."
+NS,Evoluční učení neuronových sítí,NAIL013,hlavni,3. Použití genetických algoritmů v oblasti neuronových sítí · Aplikace neuronových sítí typu zpětného šíření při formulaci a vyhodnocování cílové funkce genetických algoritmů. · Optimalizace architektury neuronových sítí pomocí genetických algoritmů.
+NS,Evoluční učení neuronových sítí,NAIL002,castecne,Aplikace genetických algoritmů v oblasti umělých neuronových sítí.
+NS,Evoluční učení neuronových sítí,NAIL099,okrajove,"Samoorganizující mapy, kombinování neuronových sítí a evolučních algoritmů."
+DZ,Základní paradigmata dobývání znalostí,NDBI023,hlavni,"Motivace a význam dobývání znalostí v praxi, přehled základních úloh z oblasti dobývání znalostí. Metodiky pro řešení úloh z oblasti dobývání znalostí."
+DZ,Základní paradigmata dobývání znalostí,NAIL116,okrajove,Časté transformace založené na znalosti (pod)struktury a dobývání znalostí z grafů
+DZ,Příprava dat,NDBI023,hlavni,"Pořizování, příprava a předzpracování dat – vzorkování, variabilita a věrohodnost, diskretizace numerických atributů a zpracování nenumerických proměnných, náhrada chybějících a prázdných hodnot, řadové proměnné."
+DZ,Příprava dat,NAIL107,castecne,1. Předzpracování dat.
+DZ,Příprava dat,NAIL116,castecne,"Popis dat a modelů, předzpracování textu a webových stránek, modely pro grafová data"
+DZ,Výběr atributů a analýza relevance,NDBI023,hlavni,"Transformace, redukce a čištění dat – vztahy mezi veličinami (odhad vzájemné podobnosti vzorů, testování hypotéz, korelační, regresní, diskriminační a shluková analýza), redukce dimenzionality."
+DZ,Výběr atributů a analýza relevance,NAIL002,okrajove,"Výběr a uspořádání příznaků, výběr a uspořádání trénovacích vzorů."
+DZ,Výběr atributů a analýza relevance,NAIL138,okrajove,Výběr modelu. Výběr příznaků. Míry kvality modelu.
+DZ,Asociační pravidla,NDBI023,hlavni,"Metody pro dobývání asociačních pravidel · Analýza nákupního košíku – časté položky, asociační pravidla, jejich formulace a základní charakteristiky. · Generování kombinací – algoritmus apriori, techniky ""nárůstu častých vzorů"" (FP-Growth a TD-FP-Growth), kombinační analýza dat."
+DZ,Asociační pravidla,NAIL029,castecne,učení bez učitele - nákupní košík (Apriori alg.)
+DZ,Asociační pravidla,NAIL099,okrajove,Asociační a klasifikační pravidla.
+DZ,Učení s učitelem v dobývání znalostí,NDBI023,hlavni,"Metody pro klasifikaci a predikci dat · Rozhodovací stromy a jejich indukce – algoritmy ID3, C4.5, CART a CHAID. · Pravděpodobnostní klasifikátory – Bayesovské modely a techniky pro jejich učení a inferenci."
+DZ,Učení s učitelem v dobývání znalostí,NAIL105,hlavni,"Téma 3. Hlavní typy klasifikačních metod. Rozdělení klasifikačních metod podle toho, zda hledají hranice mezi třídami."
+DZ,Učení s učitelem v dobývání znalostí,NAIL029,castecne,"rozhodovací stromy, prořezávání, chybějící hodnoty, · kombinace modelů (AdaBoost, random forest)"
+DZ,Učení s učitelem v dobývání znalostí,NAIL107,castecne,2. Jak porovnávat algoritmy učení.
+DZ,Klastrová analýza,NDBI023,hlavni,"Metody pro klastrovou analýzu · k-means algoritmus, volba vhodné metriky, vyhodnocení výsledků (klastrová validita), reprezentace a vizualizace detekovaných klastrů."
+DZ,Klastrová analýza,NAIL107,castecne,"4. Metody učení bez učitele: shluková analýza (klastrování dělením, k-means, hierarchické klastrování, validace klastrování) a jeji aplikace v bioinformatice."
+DZ,Klastrová analýza,NAIL029,castecne,"klastrování k-means, k-medoids, hierarchické"
+DZ,Klastrová analýza,NAIL116,okrajove,Klastrování a klasifikace grafů
+DZ,Klastrová analýza,NPFL103,okrajove,Shlukování dokumentů
+DZ,Diskriminační pravidla a jejich zajímavost,NDBI023,castecne,"Vyhledávání zajímavých pravidel pomocí omezeného dobývání (specifikace časových údajů, položek ap.)."
+DZ,Diskriminační pravidla a jejich zajímavost,NAIL099,okrajove,"Učení pravidel z dat, učení booleovských a fuzzy pravidel."
+DZ,Diskriminační pravidla a jejich zajímavost,NAIL025,okrajove,"Evoluce expertních systémů, vnitřní reprezentace, Michiganský vs. Pittsburgský přístup."
+DZ,"Reprezentace, vyhodnocení a vizualizace znalostí",NDBI023,hlavni,"Vyhodnocování získaných výsledků – křížová validace, celková správnost, matice záměn, křivka učení, křivka navýšení a křivka ROC, kombinování modelů (bagging, boosting)."
+DZ,"Reprezentace, vyhodnocení a vizualizace znalostí",NAIL105,castecne,"Specifické charakteristiky kvality binární klasifikace: správnost, přesnost, citlivost, specificita, F-míra, ROC křivka a plocha pod ní."
+DZ,"Reprezentace, vyhodnocení a vizualizace znalostí",NAIL099,okrajove,"Vizualizace dat, vizualizace modelů zkonstruovaných na základě dat."
+DZ,"Reprezentace, vyhodnocení a vizualizace znalostí",NAIL138,okrajove,Míry kvality modelu. Interpretovatelnost a vysvětlitelnost.
+DZ,Míry centrality,NAIL116,hlavni,"Přístupy pro analýzu sociálních sítí: Úvod a základní vlastnosti, míry pro centralitu a prestiž"
+DZ,Detekce komunit,NAIL116,hlavni,"Vyhledávání komunit: algoritmus Kernighan-Lina a jeho analýza, klastrovací algoritmy, prolínající se komunity"
+DZ,Praktické využití dobývání znalostí,NDBI023,hlavni,"Součástí kurzu bude i jednoduchý projekt s využitím metod pro dobývání znalostí v praxi, především v oblasti ekonomie a WWW, ale i dalších."
+DZ,Praktické využití dobývání znalostí,NAIL116,hlavni,Součástí přednášky/cvičení bude návrh jednoduché aplikace umožňující hlubší pochopení problematiky sociálních sítí a přístupů vhodných pro jejich analýzu.
+DZ,Praktické využití dobývání znalostí,NAIL105,castecne,"V rámci předmětu se student seznámí s klasifikačními metodami používanými ve třech důležitých internetových nebo obecně síťových aplikacích: při filtraci spamu, v doporučovacích systémech a v systémech pro odhalení hrozeb v síti."
+DZ,Praktické využití dobývání znalostí,NAIL107,castecne,"Přednáška je doplněná cvičením, kde se budou metody z přednášky aplikovat na umělá ale i na reálná biologická data."

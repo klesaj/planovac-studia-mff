@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/*.py:*)",
+      "Bash(python3 -c:*)",
+      "Bash(curl -s https://is.cuni.cz/*)",
+      "Bash(curl -sL https://is.cuni.cz/*)",
+      "Bash(curl -s https://www.mff.cuni.cz/*)",
+      "Bash(curl -sL https://www.mff.cuni.cz/*)",
+      "Bash(pdftotext:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(node:*)",
+      "Read(//home/**)",
+      "WebFetch(domain:is.cuni.cz)",
+      "WebFetch(domain:www.mff.cuni.cz)",
+      "WebFetch(domain:mff.cuni.cz)"
+    ],
+    "ask": [
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": []
+  }
+}

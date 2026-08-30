@@ -1,0 +1,38 @@
+okruh,tema,poradi,formulace_zdroje
+SU,Učení s učitelem a bez učitele,1,Strojové učení; učení s učitelem a bez učitele
+SU,Zpětnovazební učení,2,zpětnovazební učení
+SU,Teoretické aspekty strojového učení,3,teoretické aspekty strojového učení
+SU,Neorientované grafické modely,4,Pravděpodobnostní přístupy; neorientované grafické modely
+SU,Gaussovské procesy,5,Gaussovské procesy
+SU,Základní pojmy evolučních algoritmů,6,Evoluční algoritmy; základní pojmy a teoretické poznatky
+SU,Hypotéza o stavebních blocích,7,hypotéza o stavebních blocích
+SU,Koevoluce,8,koevoluce
+SU,Aplikace evolučních algoritmů,9,aplikace evolučních algoritmů
+SU,Strojové učení v počítačové lingvistice,10,Strojové učení v počítačové lingvistice.
+SU,Hledání motivů v DNA,11,Algoritmy pro analýzu biologických sekvencí; hledání motivů v DNA
+SU,Markovské modely biologických sekvencí,12,Markovské modely a strategie pro detekci genů či predikci struktury proteinů
+SU,Strategie pro detekci genů,13,strategie pro detekci genů
+SU,Predikce struktury proteinů,14,predikci struktury proteinů
+NS,Modely pro učení s učitelem,1,Modely pro učení s učitelem
+NS,Algoritmus zpětného šíření,2,algoritmus zpětného šíření
+NS,Strategie pro urychlení učení,3,strategie pro urychlení učení
+NS,Regularizace a generalizace,4,regularizační techniky a generalizace
+NS,Asociativní paměti a Hebbovské učení,5,Asociativní paměti; Hebbovské učení a hledání suboptimálních řešení
+NS,Stochastické modely neuronových sítí,6,stochastické modely
+NS,Sítě s učením bez učitele,7,Umělé neuronové sítě založené na principu učení bez učitele.
+NS,"Modulární, hierarchické a hybridní modely",8,"Modulární, hierarchické a hybridní modely neuronových sítí."
+NS,Konvoluční neuronové sítě,9,Modely hlubokých neuronových sítí; konvoluční neuronové sítě
+NS,Sítě typu DBN,10,sítě typu DBN
+NS,LSTM sítě,11,LSTM-sítě
+NS,Evoluční učení neuronových sítí,12,Evoluční učení neuronových sítí a jeho aplikace.
+DZ,Základní paradigmata dobývání znalostí,1,Základní paradigmata dobývání znalostí.
+DZ,Příprava dat,2,Příprava dat
+DZ,Výběr atributů a analýza relevance,3,výběr atributů a metody pro analýzu jejich relevance
+DZ,Asociační pravidla,4,Metody pro dobývání znalostí; asociační pravidla
+DZ,Učení s učitelem v dobývání znalostí,5,přístupy založené na principu učení s učitelem
+DZ,Klastrová analýza,6,klastrová analýza
+DZ,Diskriminační pravidla a jejich zajímavost,7,Metody pro extrakci charakteristických diskriminačních pravidel a měření jejich zajímavosti.
+DZ,"Reprezentace, vyhodnocení a vizualizace znalostí",8,"Reprezentace, vyhodnocování a vizualizace získaných znalostí."
+DZ,Míry centrality,9,Modely pro analýzu sociálních sítí; míry centrality
+DZ,Detekce komunit,10,detekce komunit
+DZ,Praktické využití dobývání znalostí,11,Praktické využití technik pro dobývání znalostí a analýzu sociálních sítí.

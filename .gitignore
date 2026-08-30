@@ -1,0 +1,10 @@
+# Stažené surové podklady ze SIS — cache scraperů, každý si ji natáhne sám
+zdroje/
+
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# Lokální nastavení Claude Code (permise navíc, MCP servery)
+.claude/settings.local.json

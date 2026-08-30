@@ -1,0 +1,115 @@
+{
+  "_komentar": "Konfigurace programu a zaměření. Tohle je JEDINÉ místo, kde se mění kreditová minima, seznam SZZ okruhů a doporučené předměty. Skripty v tools/ si to načtou samy. Zdroj čísel: Karolinka 2025/2026 (plán 2026/2027 v době psaní nevyšel) — před zápisem ověřit.",
+  "_nastaveno": false,
+  "program": "Informatika – Umělá inteligence",
+  "stupen": "navazující magisterský",
+  "fakulta": "11320",
+  "zdroj_pravidel": "Karolinka MFF UK 2025/2026, studijní plán programu Informatika – Umělá inteligence",
+  "semestr": {
+    "skr": "2026",
+    "sem": "1",
+    "popis": "ZS 2026/2027"
+  },
+  "kredity_celkem": 120,
+  "minima": {
+    "povinny": 47,
+    "profilujici": 38,
+    "rozsirujici": 15,
+    "volitelny": 0
+  },
+  "kontroly": [
+    {
+      "po_roce": 1,
+      "kredity": 45
+    },
+    {
+      "po_roce": 2,
+      "kredity": 90
+    }
+  ],
+  "zamereni_aktivni": "SU",
+  "zamereni": {
+    "SU": {
+      "nazev": "Strojové učení",
+      "garant": "prof. RNDr. Roman Barták, Ph.D. (KTIML)",
+      "okruhy": [
+        "SU",
+        "NS",
+        "DZ"
+      ]
+    },
+    "IA": {
+      "nazev": "Inteligentní agenti",
+      "garant": "",
+      "okruhy": [
+        "RZ",
+        "PIP",
+        "MAS",
+        "NP"
+      ],
+      "_poznamka": "Okruhy jsou opsané z 05-diplomka-a-szz.md; doporučené předměty a znění požadavků NEJSOU ověřené proti Karolince. Skill je doplní na vyžádání."
+    }
+  },
+  "okruhy": {
+    "SU": {
+      "nazev": "Strojové učení a jeho aplikace",
+      "doporucene": [
+        "NAIL029",
+        "NPFL147",
+        "NAIL025",
+        "NAIL107"
+      ]
+    },
+    "NS": {
+      "nazev": "Neuronové sítě",
+      "doporucene": [
+        "NAIL002",
+        "NAIL060",
+        "NAIL013",
+        "NAIL065"
+      ]
+    },
+    "DZ": {
+      "nazev": "Dobývání znalostí",
+      "doporucene": [
+        "NDBI023",
+        "NAIL116",
+        "NAIL105",
+        "NAIL099"
+      ]
+    },
+    "RZ": {
+      "nazev": "Reprezentace znalostí a řešení úloh",
+      "doporucene": [
+        "NAIL069",
+        "NAIL070",
+        "NAIL071",
+        "NOPT042",
+        "NAIL094",
+        "NAIL104"
+      ]
+    },
+    "PIP": {
+      "nazev": "Přírodou inspirované počítání",
+      "doporucene": [
+        "NAIL025",
+        "NAIL086",
+        "NAIL065"
+      ]
+    },
+    "MAS": {
+      "nazev": "Multiagentní systémy",
+      "doporucene": [
+        "NAIL106"
+      ]
+    },
+    "NP": {
+      "nazev": "Neprocedurální programování",
+      "doporucene": [
+        "NAIL076",
+        "NAIL077",
+        "NAIL078"
+      ]
+    }
+  }
+}

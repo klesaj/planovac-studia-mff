@@ -1,0 +1,61 @@
+kod,vrstva,zamereni,skupina,szz,plan_semestr,stav,poznamka
+NAIL069,A,vse,povinny,-,,,"Povinný předmět programu. Prohledávání, hry, CSP, plánování."
+NTIN066,A,vse,povinny,-,,,Povinný. Lze zapsat v ZS i LS; česky se učí jen v ZS, anglicky jen v LS.
+NTIN090,A,vse,povinny,-,,,Povinný. Neslučitelný s NTIN062 (viz SIS).
+NAIL070,A,vse,povinny,-,,,"Povinný, jen zkouška. Navazuje na NAIL069."
+NSZZ023,A,vse,povinny,-,,,Diplomová práce I. Zápočet uděluje vedoucí DP.
+NSZZ024,A,vse,povinny,-,,,Diplomová práce II.
+NSZZ025,A,vse,povinny,-,,,Diplomová práce III.
+NAIL002,A,SU,profilujici,NS,,,"Doporučený k okruhu Neuronové sítě — Hopfield, SOM, RBF, asociativní paměti."
+NAIL060,X,SU,profilujici,NS,,nevyučován (SIS 2026/27),"Doporučený k okruhu NS, ale SIS ho vede jako nevyučovaný a na ZS 2026/27 nemá jediný rozvrhový lístek. Před zápisem ověřit, jestli se neotevřel."
+NAIL013,A,SU,profilujici,NS,,,"Doporučený k okruhu NS, levné 2/0 Zk."
+NAIL029,A,SU,profilujici,SU,,,Doporučený k okruhu Strojové učení a jeho aplikace.
+NPFL147,A,SU,profilujici,SU,,,"Doporučený k okruhu SU: strojové učení v počítačové lingvistice; zaměnné s NPFL067."
+NAIL025,A,SU,profilujici,SU,,,"Doporučený k okruhu SU: evoluční algoritmy, stavební bloky a koevoluce. Zároveň okruh Přírodou inspirované počítání (Inteligentní agenti)."
+NAIL107,A,SU,profilujici,SU,,,"Doporučený k okruhu SU: biologické sekvence (motivy v DNA, HMM, proteiny)."
+NDBI023,A,SU,profilujici,DZ,,,Doporučený k okruhu Dobývání znalostí.
+NAIL116,A,SU,profilujici,DZ,,,"Doporučený k okruhu DZ: analýza sociálních sítí, míry centrality, detekce komunit."
+NAIL105,A,SU,profilujici,DZ,,,"Doporučený k okruhu DZ, nejlevnější doplnění okruhu."
+NPFL138,C,vse,rozsirujici,NS,,,"Hluboké učení (Straka, ÚFAL), 8 kr. Neslučitelný s NPFL114. Nejtěžší a nejvíc citovaný DL předmět na fakultě."
+NPFL139,C,vse,rozsirujici,SU,,,"Zpětnovazební učení (ÚFAL). Neslučitelný s NPFL122."
+NMAI073,C,vse,volitelny,-,,,"Pravděpodobnost a statistika pro informatiky. Přednáší Rozhoň, cvičí Tkadlec (nejlepší hodnocení v celé sadě)."
+NAIL104,C,IA,profilujici,SU,,,"Bayesovské sítě a inference, 3 kr za 2/0 Zk. Patří i k okruhu Reprezentace znalostí (Inteligentní agenti)."
+NAIL138,C,vse,rozsirujici,NS,,,"Holeňa; neuronové sítě a náhodnost. Pozor: prázdné podmínky v SIS a žádný rozvrhový lístek s časem — výuka nejspíš po domluvě."
+NPFL140,C,vse,volitelny,-,,,"Velké jazykové modely, jen zápočet 0/2, ÚFAL."
+NAIL015,X,SU,rozsirujici,NS,,nevyučován (SIS 2026/27),"Korekvizita NAIL060. SIS uvádí stav „nevyučován"", rozvrh prázdný."
+NMAI060,C,vse,rozsirujici,-,,,"Pravděpodobnostní metoda v kombinatorice — kombinatorika, ne statistika."
+NAIL099,C,SU,volitelny,DZ,,,"Doporučený u okruhu DZ (Holeňa, 0/1 Z). Zápočet až za účast ve dvou různých semestrech."
+NPFL103,C,vse,profilujici,-,,,Pecina; information retrieval.
+NAIL086,C,IA,profilujici,-,,,"Patří k okruhu Přírodou inspirované počítání (zaměření Inteligentní agenti)."
+NPRG071,C,vse,rozsirujici,-,,,Firemní projekt — schvaluje garant. NPRG069/070/071 jsou neslučitelné navzájem všechny tři.
+NPRG070,C,vse,rozsirujici,-,,,Výzkumný projekt. NPRG069/070/071 jsou neslučitelné navzájem všechny tři.
+NMSA331,C,vse,volitelny,-,,,"Matematická statistika 1 (KPMS, obor Obecná matematika): definice, věty, důkazy. Předpokládá NMSA202/NMSA333. Jediný předmět v sadě, který se učí v Karlíně, ne na Malé Straně."
+NPGR035,C,vse,-,-,,,"Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat."
+NPGR002,C,vse,rozsirujici,-,,,"Neuronové sítě v počítačové grafice; obsahový překryv s NPFL138 (CNN)."
+NAIL065,C,SU,profilujici,NS,,,"Doporučený u okruhu NS, ale obsahově robotický (evoluční robotika)."
+NMAI061,C,vse,volitelny,-,,,"Statistika pro informatiky: odhady, testování hypotéz, lineární model. Navazuje na bakalářskou NMAI059."
+NAIL109,C,vse,rozsirujici,-,,,"Neruda/Pilát, 0/4 Z: metaučení, ansámbly, ladění hyperparametrů na reálných datech. Povinná docházka, samostudium podle stránky kurzu nereálné."
+NPFL123,C,vse,volitelny,-,,,"Dušek: dialogové systémy a konverzační AI."
+NDBI031,C,vse,volitelny,-,,,"Holeňa, 2 kr za 1/1: statistické metody v systémech pro dobývání znalostí."
+NPFL097,C,vse,volitelny,-,,,"Mareček, 3 kr za 1/1 Z: neřízené strojové učení v NLP."
+NPFL099,C,vse,volitelny,-,,,"Dušek, ZS: statistické dialogové systémy; obsahový překryv s NPFL123, brát jen jeden."
+NAIL106,C,IA,profilujici,-,,,"Neruda/Pilát: multiagentní systémy. Okruh Multiagentní systémy (zaměření Inteligentní agenti)."
+NPGR036,C,vse,volitelny,-,,,"Počítačové vidění (Šikudová). Na rozdíl od NPGR035 nemá v SIS neslučitelnost s NPFL129."
+NDBI048,C,vse,volitelny,-,,,"Holubová: praktický průchod data science projektem; obsahový překryv s NDBI023."
+NAIL004,C,vse,rozsirujici,-,,,"Bartákův seminář, 2 kr za 0/2 Z."
+NAIL052,C,vse,rozsirujici,-,,,"LS pokračování NAIL004, 2 kr za 0/2 Z."
+NPFL104,X,vse,volitelny,-,,nevyučován (SIS 2026/27),Metody strojového učení (ÚFAL) — SIS uvádí stav „nevyučován“.
+NPFL117,X,vse,volitelny,-,,nevyučován (SIS 2026/27),Seminář z hlubokého učení (Straka) — SIS uvádí stav „nevyučován“.
+NPFL118,C,vse,volitelny,-,,,"NLP na výpočetním clusteru — anotace výslovně říká, že bez přístupu na cluster ÚFAL je předmět pro ostatní studenty nevhodný."
+NAIL087,C,vse,rozsirujici,-,,,"Úvod do výpočetní neurovědy I — biologické modely neuronů, 6 kr za 3/1."
+NAIL100,C,SU,volitelny,DZ,,,"LS pokračování NAIL099 (Holeňa, 0/1 Z)."
+NMAI165,C,vse,volitelny,-,,,"Praktikum (cvičení) k NMAI060, 3 kr za 0/2 Z — anotace NMAI060 ho sama doporučuje zapsat současně."
+NDMI096,C,vse,volitelny,-,,,"Analýza komplexních sítí, 6 kr — obsahový překryv s NAIL116."
+NOPT046,C,vse,volitelny,-,,,"Diskrétní a spojitá optimalizace — LP a kombinatorika."
+NTIN114,C,vse,volitelny,-,,,"Proudové algoritmy pro velká data."
+NAIL021,C,IA,rozsirujici,-,,,"Booleovské funkce, 3 kr za 2/0 Zk, jen ústní zkouška — levné kredity do rozšiřujících."
+NOPT021,C,IA,rozsirujici,-,,,"Algoritmy moderní teorie her, 5 kr, ZS, učí Martin Schmid (autor DeepStacku) — Nash, minimax, fictitious play, regret minimization. SIS si protiřečí (rozsah 2/2 Z+Zk × podmínky „Ústní zkouška“ × rozvrh bez cvičení) → před zápisem se zeptat vyučujícího."
+NDBI021,C,vse,volitelny,-,,,"4 kr, ZS, doporučovací systémy (Peška) — aplikované ML. Cvičení protahuje čtvrtek do 18:50."
+NSWI166,C,vse,volitelny,-,,,"4 kr, LS, vstupní varianta doporučovacích systémů u téhož Pešky; překryv s NDBI021, brát nanejvýš jeden. Zápočet lze i bez docházky („nebo samostatné vypracování zadaných úkolů“)."
+NSWI035,C,vse,profilujici,-,,,"3 kr, ZS, 2/0 Zk, jen ústní zkouška → levné kredity do profilujících."
+NPRG072,C,vse,rozsirujici,-,,,"Jen jako přívěsek k NPRG071: formální rozšíření rozsahu současně zapsaného projektu, +3 kr do rozšiřujících za tutéž práci."
