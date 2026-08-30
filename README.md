@@ -26,7 +26,7 @@ klikáním sestavíš plán i konkrétní rozvrh.
 Potřebuješ [Claude Code](https://claude.com/claude-code) a Python 3.
 
 ```bash
-git clone <adresa-tohohle-repa> studijni-plan
+git clone https://github.com/klesaj/planovac-studia-mff.git studijni-plan
 cd studijni-plan
 claude
 ```
@@ -126,3 +126,9 @@ proti aktuálnímu vydání. Rozvrh bývá až do začátku semestru předběžn
 
 Nic z toho nenahrazuje studijní oddělení ani garanta programu. Je to nástroj,
 jak si udělat pořádek v tom, co si vlastně chceš zapsat.
+
+**Licence a data.** Skripty a texty v repu jsou pod MIT (`LICENSE`), dělej si s nimi,
+co chceš. Obsah v `data/` je ale odvozený ze SIS a z Karolinky a patří svým zdrojům:
+anotace a sylaby píší vyučující, připomínky v `anketa_komentare.csv` psali studenti
+ve fakultní anketě. Je to tu pro tvoje plánování, ne k dalšímu šíření —
+`data/absolvovane.csv` (výpis z bakaláře) je navíc osobní údaj a v gitu být nemá.
