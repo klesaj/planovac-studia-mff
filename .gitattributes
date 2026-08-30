@@ -1,0 +1,2 @@
+# csv.writer v Pythonu píše CRLF; ať to git nepřevádí sem a tam
+*.csv -text
