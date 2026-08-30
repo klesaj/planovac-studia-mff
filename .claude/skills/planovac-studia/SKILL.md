@@ -46,19 +46,22 @@ Zeptej se **jednou, v jednom kole** (nástroj na otázky, ne pět zpráv za sebo
    *Výsledky zkoušek – prohlížení → Studijní mezivýsledky → tisk*, vznikne PDF.
    Postup zpracování je v `references/bakalar.md`.
 
-Pak proveď v tomhle pořadí:
+Pak jeď podle **`references/prvni-spusteni.md`** — je to runbook krok za krokem
+(konfigurace → nabídka předmětů → scrapery → agentní vrstva → kontrola proti
+bakaláři → publikace) a končí kontrolním seznamem, podle kterého poznáš, že jsi
+opravdu hotový.
 
-1. **Zapiš odpovědi do `data/program.json`** — `program`, `zamereni_aktivni`,
-   `semestr`, a `_nastaveno: true`. Kreditová minima a SZZ okruhy jeho zaměření
-   ověř proti Karolince, nevymýšlej je (viz `references/pridani-predmetu.md`).
-2. **Doplň nabídku předmětů** na všechny povinné a povinně volitelné jeho programu
-   a zaměření — postup v `references/pridani-predmetu.md`. Výchozí sada je vybraná
-   pro strojové učení a jinému zaměření bude připadat děravá.
-3. **Stáhni data**: `tools/sis.py`, `tools/rozvrh.py`, `tools/anketa.py`,
-   `tools/anotace.py`, `tools/listky.py`, `tools/ucitele_historie.py`.
-   Trvá to jednotky minut, pusť to na pozadí.
-4. **Dopiš agentní vrstvu** pro nově přidané předměty — `references/agentni-vrstva.md`.
-5. **Přegeneruj a publikuj stránku** — `references/stranka.md`.
+Dvě věci, které se odtamtud nedají vynechat, protože bez nich to bude vypadat
+jako nedodělek:
+
+- **Agentní vrstva.** Scrapery samy vyrobí jen hezčí SIS. Docházka, sylaby
+  v odrážkách, shrnuté ankety a pokrytí státnic jsou to, kvůli čemu ta stránka
+  stojí za to — a píše je agent, ne skript.
+- **Lidské názvy předmětů** v `data/relevance.csv`. Bez nich mluví celá stránka
+  syrovými názvy ze SIS.
+
+Celé první nastavení trvá desítky minut až pár hodin. Řekni to dopředu, průběžně
+hlas postup a nezastavuj se v půlce s dotazem, jestli máš pokračovat.
 
 Teprve pak se dá plánovat.
 
@@ -66,6 +69,7 @@ Teprve pak se dá plánovat.
 
 | Uživatel chce | Kde je postup |
 |---|---|
+| nastavit čerstvě naklonované repo | `references/prvni-spusteni.md` |
 | přidat předmět / celý program / jiné zaměření | `references/pridani-predmetu.md` |
 | načíst výpis z bakaláře, řešit uznávání kreditů | `references/bakalar.md` |
 | aktualizovat data ze SIS, nový semestr rozvrhu | `references/datova-vrstva.md` |

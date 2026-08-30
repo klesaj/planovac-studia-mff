@@ -82,6 +82,50 @@ ve škole. Falešné „docházka se neřeší" stojí zápočet.
 Zdroj: stránky kurzů a vyučujících (ne SIS — nebo SIS navíc, s uvedením). Textové
 výtahy ukládej do `zdroje/stranky/<KOD>-kurz.md`, první dva řádky URL a datum stažení.
 
+### Jak najít stránku kurzu
+
+SIS na stránku kurzu **většinou neodkazuje**, takže je to detektivní práce. Čtyři
+zdroje v tomhle pořadí, končíš první, která zabere:
+
+1. **Anotace v `data/anotace.csv`.** Vyučující tam URL často zmíní. Vytáhni je
+   hromadně a máš třetinu práce hotovou zadarmo:
+   ```bash
+   python3 -c "
+   import csv, re
+   for r in csv.DictReader(open('data/anotace.csv', encoding='utf-8')):
+       u = re.findall(r'https?://[^\s,;)\"]+',
+                      ' '.join([r['anotace'], r['sylabus'], r['podminky']]))
+       u = [x for x in u if 'is.cuni.cz' not in x and 'w3.org' not in x]
+       if u: print(r['kod'], ' '.join(dict.fromkeys(u))[:200])"
+   ```
+2. **Domovská stránka vyučujícího.** Jméno je v `data/sis.csv` (`vyucujici`, `garant`),
+   pracoviště taky. Stránky bývají na katedrálních doménách ve tvaru
+   `<katedra>.mff.cuni.cz/~<prijmeni>/`:
+   `ktiml.mff.cuni.cz` (KTIML), `ufal.mff.cuni.cz` (ÚFAL, kurzy pod
+   `/courses/<kod malymi>`), `ksvi.mff.cuni.cz`, `ksi.mff.cuni.cz` (KSI),
+   `cgg.mff.cuni.cz` (počítačová grafika), `karlin.mff.cuni.cz` (KPMS, matematika).
+   Kurz pak bývá v podadresáři (`~mraz/nn/`). Někteří lidé mají web mimo fakultu.
+3. **Vyhledávání.** `WebSearch` na `"<KÓD> <název předmětu> MFF"` — kód předmětu je
+   dost unikátní, aby to trefilo.
+4. **Moodle `dl1.cuni.cz` / `dl2.cuni.cz`.** Odkaz najdeš, obsah ne — je za
+   přihlášením. To je legitimní zjištění: napiš do `poznamka`, že materiály jsou
+   jen v Moodlu za CAS, a nech `nezjisteno`.
+
+Když nenajdeš nic, řádek **stejně založ** — s `nezjisteno` a poznámkou, kde jsi
+hledal. Chybějící řádek vypadá jako „ještě jsme se k tomu nedostali"; řádek
+s `nezjisteno` je informace, že to zjistit nešlo.
+
+### Na co se na té stránce dívat
+
+Ne na celý obsah kurzu, ale na čtyři věci:
+
+- **sekce o zápočtu a hodnocení** — tam bývá věta o docházce a bodech za účast,
+- **rozpis přednášek** — jestli u nich jsou slajdy nebo videa,
+- **datum poslední aktualizace** — stará stránka může popisovat jiná pravidla než
+  aktuální SIS. Když si odporují, uveď obojí a napiš, co je novější.
+- **termíny, které se nedají dohnat** — prezentace projektu, testy psané na cvičení,
+  konzultace v půlce semestru. Tohle je přesně to, co rozhoduje o samostudiu.
+
 `dochazka` — přesně jedna z hodnot, od nejmírnější:
 
 | hodnota | kdy |
@@ -140,8 +184,20 @@ nenašel, nebo si to bude muset nastudovat sám.
 
 ## Ověřování
 
-Když tyhle soubory píše víc agentů paralelně (což se u větší nabídky vyplatí),
-projeď po nich **nezávislou kontrolu**: vezmi vzorek řádků, najdi zdrojová data
+### Jak rozvrhnout práci mezi agenty
+
+U větší nabídky se to bez paralelizace protáhne. Rozděl to takhle:
+
+- **Jeden agent = jedna dávka předmětů (zhruba osm) a jeden cílový soubor.**
+  Nedávej jednomu agentovi „všechno o pěti předmětech" — formáty se pletou.
+- Agentovi předej **konkrétní kódy**, cestu k výstupnímu souboru, hlavičku CSV
+  a odkaz na příslušnou sekci tohohle dokumentu. Ať zapisuje do vlastního
+  dočasného souboru a ty ho sloučíš — souběžný zápis do jednoho CSV je ztráta dat.
+- `stranky.csv` potřebuje web, takže je nejpomalejší; pusť ji jako první a ostatní
+  souběžně vedle.
+- Po každé dávce si **sám otevři dva tři zdroje** a ověř, co agent napsal.
+
+Po dokončení projeď **nezávislou kontrolu**: vezmi vzorek řádků, najdi zdrojová data
 a přeměř zejména čísla. Nález agenta neber automaticky — když hlásí chybu s číslem,
 ověř i ten **doklad**, ne jen směr tvrzení. A když se ti něco nezdá, ale nemáš
 jistotu, radši se zeptej uživatele, než abys „opravil" správný údaj.

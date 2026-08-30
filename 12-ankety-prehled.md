@@ -2087,20 +2087,22 @@
 
 | Vyučující | Role | Učil v letech | Období | Odpovědí | Připomínek |
 |---|---|---|---:|---:|---:|
-| Mgr. Hedvika Ranošová | cvičení | 2025 — odhad z dat připomínek | 0 | 0 | 1 |
-| doc. Ing. Marek Omelka, Ph.D. | cvičení | 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2025 (zimní) | 11 | 144 | 1 |
+| Mgr. Hedvika Ranošová **(učí teď)** | cvičení | 2025 — odhad z dat připomínek | 0 | 0 | 1 |
+| doc. Ing. Marek Omelka, Ph.D. **(učí teď)** | cvičení | 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2025 (zimní) | 11 | 144 | 1 |
+| prof. RNDr. Arnošt Komárek, Ph.D. **(učí teď)** | přednáška | 2022 (zimní) | 1 | 9 | 1 |
 | *(připomínky k předmětu)* | přednáška | 2024 — odhad z dat připomínek | 0 | 0 | 1 |
 | doc. Ing. Marek Omelka, Ph.D. | přednáška | 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022 (zimní) | 8 | 119 | 0 |
 | doc. Mgr. Stanislav Nagy, Ph.D. | cvičení | 2018, 2019, 2020, 2021, 2022 (zimní) | 5 | 40 | 0 |
-| prof. RNDr. Arnošt Komárek, Ph.D. | přednáška | 2022 (zimní) | 1 | 9 | 1 |
 | doc. RNDr. Šárka Hudecová, Ph.D. | cvičení | 2017, 2018, 2019, 2020, 2021 (zimní) | 5 | 41 | 0 |
 | doc. Mgr. Michal Kulich, Ph.D. | přednáška | 2015, 2016 (zimní) | 2 | 32 | 0 |
 | doc. RNDr. Daniel Hlubinka, Ph.D. | cvičení | 2013, 2014, 2015 (zimní) | 3 | 39 | 0 |
 | prof. RNDr. Jiří Anděl, DrSc. | přednáška | 2012, 2013, 2014 (zimní) | 3 | 46 | 0 |
 
-### Mgr. Hedvika Ranošová — cvičení
+### Mgr. Hedvika Ranošová — cvičení — **učí v ZS 2026/27**
 
 **Učil v letech:** 2025 — odhad z dat připomínek
+
+**V rozvrhu ZS 2026/27:** Po 12:20–13:50 K11 (cvičení)
 
 *Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
 
@@ -2108,9 +2110,11 @@
 
 - *15.02.2026, 3. ročník, Obecná matematika, cvičení* — Na začátku cvičení mi chybělo shrnutí látky. Především tomu bylo v druhé polovině semestru, kdy jsme začali pracovat v R. Tehdy jsme na začátku rychle projeli celé cvičení, které měla paní Ranošová předvyplněné, a potom následovala naše samostatná práce(kde si člověk stejně musel znovu a pomaleji projít celé cvičení).
 
-### doc. Ing. Marek Omelka, Ph.D. — cvičení
+### doc. Ing. Marek Omelka, Ph.D. — cvičení — **učí v ZS 2026/27**
 
 **Učil v letech:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2025 (zimní)
+
+**V rozvrhu ZS 2026/27:** Po 14:00–15:30 K11 (cvičení)
 
 Číselně (posledních 5 záznamů od 2019): celkové hodnocení **—**, dohromady 58 odpovědí.
 
@@ -2125,6 +2129,22 @@
 **Připomínky (1):**
 
 - *08.02.2025, 3. ročník, Obecná matematika, cvičení* — Velmi dobrý cvičící. Látku vždy dokázal vysvětlit, občas i předat detaily, které se na přednášce nestihly. Dobrá byla i zpětná vazba na domácí úkol, jenž nám pomohla hodně věcí zlepšit. Malé mínus pouze za dlouhou dobu, která v případě obou úkolů a zápočtového testu panu docentovi zabrala oprava.
+
+### prof. RNDr. Arnošt Komárek, Ph.D. — přednáška — **učí v ZS 2026/27**
+
+**Učil v letech:** 2022 (zimní)
+
+**V rozvrhu ZS 2026/27:** Po 9:00–10:30 K2 (přednáška); Út 10:40–12:10 K2 (přednáška)
+
+Číselně (posledních 1 záznamů od 2019): celkové hodnocení **1,33**, dohromady 9 odpovědí.
+
+| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
+|---|---|---:|---:|---:|---:|
+| 2022 / zimní | přednáška | 9/30 | 1,33 | — | — |
+
+**Připomínky (1):**
+
+- *08.01.2025, 2. Ročník, Obecná matematika, přednáška* — Pan profesor Komárek je velice sympatický vyučijící. Je vidět, že je do předmětu zapálen, a tu energii je schopen předat. Látku byl schopen vysvětlit hezky a srozumitelně, s nemála vsuvkami, příběhy i vtípky. Přednášky určitě stály za to, obvzlášť když alternativa jsou 200-stránková skripta. Pan profesor má také masivní plus za vypsání vánočního předtermínu, přičemž u zkoušky byl také velice férový. Se vším všudy tedy nemohu nic zásadního vytknout.
 
 ### Připomínky k předmětu jako celku — přednáška
 
@@ -2169,20 +2189,6 @@
 
 *Žádné připomínky.*
 
-### prof. RNDr. Arnošt Komárek, Ph.D. — přednáška
-
-**Učil v letech:** 2022 (zimní)
-
-Číselně (posledních 1 záznamů od 2019): celkové hodnocení **1,33**, dohromady 9 odpovědí.
-
-| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
-|---|---|---:|---:|---:|---:|
-| 2022 / zimní | přednáška | 9/30 | 1,33 | — | — |
-
-**Připomínky (1):**
-
-- *08.01.2025, 2. Ročník, Obecná matematika, přednáška* — Pan profesor Komárek je velice sympatický vyučijící. Je vidět, že je do předmětu zapálen, a tu energii je schopen předat. Látku byl schopen vysvětlit hezky a srozumitelně, s nemála vsuvkami, příběhy i vtípky. Přednášky určitě stály za to, obvzlášť když alternativa jsou 200-stránková skripta. Pan profesor má také masivní plus za vypsání vánočního předtermínu, přičemž u zkoušky byl také velice férový. Se vším všudy tedy nemohu nic zásadního vytknout.
-
 ### doc. RNDr. Šárka Hudecová, Ph.D. — cvičení
 
 **Učil v letech:** 2017, 2018, 2019, 2020, 2021 (zimní)
@@ -2226,12 +2232,46 @@
 
 | Vyučující | Role | Učil v letech | Období | Odpovědí | Připomínek |
 |---|---|---|---:|---:|---:|
+| Kassem Anis Bouali, M.Sc. **(učí teď)** | cvičení | 2025 — odhad z dat připomínek | 0 | 0 | 1 |
+| doc. RNDr. Elena Šikudová, Ph.D. **(učí teď)** | přednáška | 2022, 2024, 2025 (zimní) | 3 | 16 | 3 |
 | *(připomínky k předmětu)* | přednáška | 2024, 2025 — odhad z dat připomínek | 0 | 0 | 3 |
-| Kassem Anis Bouali, M.Sc. | cvičení | 2025 — odhad z dat připomínek | 0 | 0 | 1 |
 | Mgr. Matúš Goliaš | cvičení | 2023, 2024, 2025 — odhad z dat připomínek | 0 | 0 | 4 |
 | doc. RNDr. Elena Šikudová, Ph.D. | cvičení | 2022, 2025 (zimní) | 2 | 10 | 1 |
-| doc. RNDr. Elena Šikudová, Ph.D. | přednáška | 2022, 2024, 2025 (zimní) | 3 | 16 | 3 |
 | *(připomínky k předmětu)* | cvičení | 2022 (zimní) | 1 | 5 | 2 |
+
+### Kassem Anis Bouali, M.Sc. — cvičení — **učí v ZS 2026/27**
+
+**Učil v letech:** 2025 — odhad z dat připomínek
+
+**V rozvrhu ZS 2026/27:** Po 12:20–13:50 SW1 (cvičení); St 12:20–13:50 SW1 (cvičení); Čt 10:40–12:10 SW1 (cvičení)
+
+*Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
+
+**Připomínky (1):**
+
+- *12.02.2026, 1. Ročník, Computer Science, cvičení* — Kassem Anis was a super nice teacher! Always ready to help and really understanding. Thank you!
+
+### doc. RNDr. Elena Šikudová, Ph.D. — přednáška — **učí v ZS 2026/27**
+
+**Učil v letech:** 2022, 2024, 2025 (zimní)
+
+**V rozvrhu ZS 2026/27:** Út 14:00–15:30 S11 (přednáška); Pá 9:00–10:30 S3 (přednáška)
+
+Číselně (posledních 5 záznamů od 2019): celkové hodnocení **1,10**, dohromady 27 odpovědí.
+
+| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
+|---|---|---:|---:|---:|---:|
+| 2025 / zimní | přednáška | 6/40 | 1,00 | — | — |
+| 2025 / zimní | přednáška | 6/40 | — | — | — |
+| 2024 / zimní | přednáška | 5/44 | 1,20 | — | — |
+| 2024 / zimní | přednáška | 5/44 | — | — | — |
+| 2022 / zimní | přednáška | 5/49 | — | — | — |
+
+**Připomínky (3):**
+
+- *15.02.2026, 4. ročník, Informatika, přednáška* — Veľmi dobre vysvetlené a zrozumiteľné prednášky.
+- *12.02.2026, 1. Ročník, Computer Science, přednáška* — Elena was a great teacher! She prepared the lectures in detail and was always nice to talk to.
+- *07.02.2025, 3. ročník, Computer Science, přednáška* — The teacher seems nice and is fair on the exams. However, the main teaching for the English group was by prerecorded lectures from slides. This was fine, but sometimes the content was not explained in much detail, probably due to time.
 
 ### Připomínky k předmětu jako celku — přednáška
 
@@ -2244,16 +2284,6 @@
 - *12.02.2026, 1. Ročník, Computer Science, přednáška* — Overall, it was a really nice course, really well organized.
 - *07.02.2025, 3. ročník, Computer Science, přednáška* — Great refresher+ course on machine learning techniques and more detailed data processing techniques useful not only in comp. vision
 - *02.02.2025, 1. ročník, Informatika - Umělá inteligence, přednáška* — Super predmet.
-
-### Kassem Anis Bouali, M.Sc. — cvičení
-
-**Učil v letech:** 2025 — odhad z dat připomínek
-
-*Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
-
-**Připomínky (1):**
-
-- *12.02.2026, 1. Ročník, Computer Science, cvičení* — Kassem Anis was a super nice teacher! Always ready to help and really understanding. Thank you!
 
 ### Mgr. Matúš Goliaš — cvičení
 
@@ -2283,26 +2313,6 @@
 
 - *17.02.2024, 1. ročník, Computer Science, cvičení* — The professor was available to answer any questions.
 
-### doc. RNDr. Elena Šikudová, Ph.D. — přednáška
-
-**Učil v letech:** 2022, 2024, 2025 (zimní)
-
-Číselně (posledních 5 záznamů od 2019): celkové hodnocení **1,10**, dohromady 27 odpovědí.
-
-| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
-|---|---|---:|---:|---:|---:|
-| 2025 / zimní | přednáška | 6/40 | 1,00 | — | — |
-| 2025 / zimní | přednáška | 6/40 | — | — | — |
-| 2024 / zimní | přednáška | 5/44 | 1,20 | — | — |
-| 2024 / zimní | přednáška | 5/44 | — | — | — |
-| 2022 / zimní | přednáška | 5/49 | — | — | — |
-
-**Připomínky (3):**
-
-- *15.02.2026, 4. ročník, Informatika, přednáška* — Veľmi dobre vysvetlené a zrozumiteľné prednášky.
-- *12.02.2026, 1. Ročník, Computer Science, přednáška* — Elena was a great teacher! She prepared the lectures in detail and was always nice to talk to.
-- *07.02.2025, 3. ročník, Computer Science, přednáška* — The teacher seems nice and is fair on the exams. However, the main teaching for the English group was by prerecorded lectures from slides. This was fine, but sometimes the content was not explained in much detail, probably due to time.
-
 ### Připomínky k předmětu jako celku — cvičení
 
 **Učil v letech:** 2022 (zimní)
@@ -2323,28 +2333,14 @@
 
 | Vyučující | Role | Učil v letech | Období | Odpovědí | Připomínek |
 |---|---|---|---:|---:|---:|
+| prof. Ing. Jan Flusser, DrSc. **(učí teď)** | přednáška | 2003, 2005, 2009, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022 (zimní) | 11 | 97 | 5 |
 | *(připomínky k předmětu)* | přednáška | 2023, 2024, 2025 — odhad z dat připomínek | 0 | 0 | 7 |
-| prof. Ing. Jan Flusser, DrSc. | přednáška | 2003, 2005, 2009, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022 (zimní) | 11 | 97 | 5 |
 
-### Připomínky k předmětu jako celku — přednáška
-
-**Učil v letech:** 2023, 2024, 2025 — odhad z dat připomínek
-
-*Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
-
-**Připomínky (7):**
-
-- *15.02.2026, 3. ročník, Informatika, přednáška* — Neuvěřitelně zajímavá témata, určitě doporučuji vzít si i doporučovaný seminář (Digitální zpracování obrazu v praxi), aby měl člověk větší možnost osahat si teoretické koncepty i v praxi. Pozor, chybí nějaké smysluplné materiály - přednášející má na stránkách prezentace, které ale nejsou úplně 1:1 ty, ze kterých následně přednáší (tam je občas i netriviální množství slidů navíc), plus se jedná hlavně o obrázky podporující jeho výklad, takže představa, že chybím na přednášce a následně vše doplním pouze z přednášek - v praxi to tak nefunguje. Na wiki se dá něco sehnat, ale i tak doporučuji na přednášky chodit, jednak je to extrémně zajímavé, druhak má přednášející dobrou paměť na obličeje xd, ale hlavně je člověk schopen odnést si opravdu hodně a mít pocit, že tomu rozumí a že je všechno jednoduché. Doporučuji spíš pro 3. bc a výš, protože hodně to stojí na Fourierce, konvoluci a pravděpodobnosti (to jsou nejsložitější části a jsou prostoupeny snad všemi partiemi).
-- *12.02.2026, 3. ročník, Informatika, přednáška* — Predmet je zaujímavý a nie je moc ťažký. Jediné čo je mínus, že chýbajú poriadne materiály, takže ak nechodíte na prednášky, tak potom sa to ťažko dohľadáva, lebo prezentácie z hodín sú veľmi stručné a obsahujú hlavne obrázky a vzorce bez vysvetlenia.
-- *05.02.2026, 3. Ročník, Matematika pro informační technologie, přednáška* — Zajímavá, spíše prakticky orientovaná přednáška. Ryze "matematických" konceptů typu věta-důkaz tady moc nenajdete, jde hlavně o celkové pochopení a nadhled nad jednotlivými koncepty. Zpětně mě mrzí, že jsem dost přednášek vynechal. Celá přednáška je na osobním výkladu dost založená, z materiálů ke kurzu (prezentace) se toho člověk moc nenaučí, je potřeba k tomu slyšet vysvětlení
-- *16.02.2025, 2. ročník, Obecná matematika, přednáška* — Pre mňa čisto voliteľná prednáška Digitálna Spracovanie Obrazu ma príjemne prekvapila, nevedel som čo od toho čakať, lebo je to predmet pre informatiku (ja študujem matematiku) a hlavne s veľmi jasným zameraním na aplikovanie získaných vedomostí. Prednášky boli veľmi zaujímavé, trvali 2 hodiny ale vždy to ubehlo rýchlo. Učivo bolo jasne prednesené z naozaj veľkým dôrazom na porozumenie myšlienky (miesto rigorozného dokazovania všetkého čo sme používali), teda sme toho stihli na úvodný kurz do témy prebrať veľa a pri všetkom prišiel “aha moment” kedy bolo jasne pochopiteľné prečo nejaký koncept funguje tak ako funguje a prečo je dobrý nápad to tak robiť. Tiež bol veľký dôraz na aplikácie, toto na matfyze moc nevidím tak mi to prišlo zaujímavé, mal som pocit že okrem teórie a algoritmov som sa naučil riešiť určité druhy problémov s ktorými sa človek v profesionálnom živote môže stretnúť. Hlavné nevýhody prednášky sú lokalita (budova ŮTIA ktorá je vzdialená od budov matfyzu) a neexistencia skript alebo nejakých študijnych materiálov (odporúčaná literatúra nepokrýva úplne sylabus prednášky, chýba niečo aktuálne). Nejaké materiály sme dostali vo forme prezentácií ktoré boli na prednáškach použíté, bez prednášky by boli zbytočné pretože tam nie je nič vysvetlené ale pomohli mi pripomenúť si učivo a mal som 1 tak sa asi nemám čo sťažovať :DD
-- *08.01.2025, 3. ročník, Matematika pro informační technologie, přednáška* — chybi ucebni materialy, vyvesene prezentace jsou hrubě nedostacujici
-- *17.02.2024, 3. Ročník, Informatika, přednáška* — Veľmi záživné prednášky. Jediné čo mi trochu chýbalo boli materiály k predmetu, detailnejšie než slidy z prezentácií.
-- *17.02.2024, 3. ročník, Informatika, přednáška* — škoda že to bolo dost ďaleko
-
-### prof. Ing. Jan Flusser, DrSc. — přednáška
+### prof. Ing. Jan Flusser, DrSc. — přednáška — **učí v ZS 2026/27**
 
 **Učil v letech:** 2003, 2005, 2009, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022 (zimní)
+
+**V rozvrhu ZS 2026/27:** Út 9:50–12:05  (přednáška)
 
 Číselně (posledních 6 záznamů od 2019): celkové hodnocení **1,82**, dohromady 42 odpovědí.
 
@@ -2364,6 +2360,22 @@
 - *16.02.2025, 2. ročník, Obecná matematika, přednáška* — Po prvej prednáške bolo jasné že profesor Flusser sa v téme orientuje, snaží sa odovzdať porozumenie študentom, čo sa mu darí. Často vysvetľuje dôležité koncepty aj 20 minút aby to pochopil aj sprostý a iným konceptom sa venuje len okrajovo, nenechá sa zahltiť technickými detailami, tento prístup mi vyhovoval. Občas je nepríjemný, možno trochu povýšený nad svojimi študentami keď robia niečo čo sa mu nepáči. Okrem tejto osobnej roviny je ale vynikajúci prednášajúci.
 - *17.02.2024, 3. Ročník, Informatika, přednáška* — Pútavé výklady, zrozumiteľné vysvetlenia.
 - *02.02.2024, 2. ročník, Informatika, přednáška* — Prednáška s človekom ktorý sa naozaj rozumie tomu čo prednáša a aj to vie dobre vysvetliť a ukázať
+
+### Připomínky k předmětu jako celku — přednáška
+
+**Učil v letech:** 2023, 2024, 2025 — odhad z dat připomínek
+
+*Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
+
+**Připomínky (7):**
+
+- *15.02.2026, 3. ročník, Informatika, přednáška* — Neuvěřitelně zajímavá témata, určitě doporučuji vzít si i doporučovaný seminář (Digitální zpracování obrazu v praxi), aby měl člověk větší možnost osahat si teoretické koncepty i v praxi. Pozor, chybí nějaké smysluplné materiály - přednášející má na stránkách prezentace, které ale nejsou úplně 1:1 ty, ze kterých následně přednáší (tam je občas i netriviální množství slidů navíc), plus se jedná hlavně o obrázky podporující jeho výklad, takže představa, že chybím na přednášce a následně vše doplním pouze z přednášek - v praxi to tak nefunguje. Na wiki se dá něco sehnat, ale i tak doporučuji na přednášky chodit, jednak je to extrémně zajímavé, druhak má přednášející dobrou paměť na obličeje xd, ale hlavně je člověk schopen odnést si opravdu hodně a mít pocit, že tomu rozumí a že je všechno jednoduché. Doporučuji spíš pro 3. bc a výš, protože hodně to stojí na Fourierce, konvoluci a pravděpodobnosti (to jsou nejsložitější části a jsou prostoupeny snad všemi partiemi).
+- *12.02.2026, 3. ročník, Informatika, přednáška* — Predmet je zaujímavý a nie je moc ťažký. Jediné čo je mínus, že chýbajú poriadne materiály, takže ak nechodíte na prednášky, tak potom sa to ťažko dohľadáva, lebo prezentácie z hodín sú veľmi stručné a obsahujú hlavne obrázky a vzorce bez vysvetlenia.
+- *05.02.2026, 3. Ročník, Matematika pro informační technologie, přednáška* — Zajímavá, spíše prakticky orientovaná přednáška. Ryze "matematických" konceptů typu věta-důkaz tady moc nenajdete, jde hlavně o celkové pochopení a nadhled nad jednotlivými koncepty. Zpětně mě mrzí, že jsem dost přednášek vynechal. Celá přednáška je na osobním výkladu dost založená, z materiálů ke kurzu (prezentace) se toho člověk moc nenaučí, je potřeba k tomu slyšet vysvětlení
+- *16.02.2025, 2. ročník, Obecná matematika, přednáška* — Pre mňa čisto voliteľná prednáška Digitálna Spracovanie Obrazu ma príjemne prekvapila, nevedel som čo od toho čakať, lebo je to predmet pre informatiku (ja študujem matematiku) a hlavne s veľmi jasným zameraním na aplikovanie získaných vedomostí. Prednášky boli veľmi zaujímavé, trvali 2 hodiny ale vždy to ubehlo rýchlo. Učivo bolo jasne prednesené z naozaj veľkým dôrazom na porozumenie myšlienky (miesto rigorozného dokazovania všetkého čo sme používali), teda sme toho stihli na úvodný kurz do témy prebrať veľa a pri všetkom prišiel “aha moment” kedy bolo jasne pochopiteľné prečo nejaký koncept funguje tak ako funguje a prečo je dobrý nápad to tak robiť. Tiež bol veľký dôraz na aplikácie, toto na matfyze moc nevidím tak mi to prišlo zaujímavé, mal som pocit že okrem teórie a algoritmov som sa naučil riešiť určité druhy problémov s ktorými sa človek v profesionálnom živote môže stretnúť. Hlavné nevýhody prednášky sú lokalita (budova ŮTIA ktorá je vzdialená od budov matfyzu) a neexistencia skript alebo nejakých študijnych materiálov (odporúčaná literatúra nepokrýva úplne sylabus prednášky, chýba niečo aktuálne). Nejaké materiály sme dostali vo forme prezentácií ktoré boli na prednáškach použíté, bez prednášky by boli zbytočné pretože tam nie je nič vysvetlené ale pomohli mi pripomenúť si učivo a mal som 1 tak sa asi nemám čo sťažovať :DD
+- *08.01.2025, 3. ročník, Matematika pro informační technologie, přednáška* — chybi ucebni materialy, vyvesene prezentace jsou hrubě nedostacujici
+- *17.02.2024, 3. Ročník, Informatika, přednáška* — Veľmi záživné prednášky. Jediné čo mi trochu chýbalo boli materiály k predmetu, detailnejšie než slidy z prezentácií.
+- *17.02.2024, 3. ročník, Informatika, přednáška* — škoda že to bolo dost ďaleko
 
 ## NAIL065 — Evoluční robotika
 *vrstva C · 4 kr · 2/1 Z+Zk*
@@ -3104,16 +3116,41 @@
 
 | Vyučující | Role | Učil v letech | Období | Odpovědí | Připomínek |
 |---|---|---|---:|---:|---:|
+| Mgr. Ján Antolík, Ph.D. **(učí teď)** | přednáška | 2020 (zimní) | 1 | 6 | 0 |
+| Studeničová Katarína **(učí teď)** | cvičení | anketa k němu nemá žádné období | 0 | 0 | 0 |
 | *(připomínky k předmětu)* | cvičení | 2025 — odhad z dat připomínek | 0 | 0 | 1 |
 | *(připomínky k předmětu)* | přednáška | 2024, 2025 — odhad z dat připomínek | 0 | 0 | 2 |
 | Mgr. Ján Antolík, Ph.D. | cvičení | 2020 (zimní) | 1 | 6 | 0 |
-| Mgr. Ján Antolík, Ph.D. | přednáška | 2020 (zimní) | 1 | 6 | 0 |
 | Mgr. et Mgr. Filip Děchtěrenko, Ph.D. | cvičení | 2014, 2020 (zimní) | 2 | 12 | 0 |
 | Mgr. et Mgr. Filip Děchtěrenko, Ph.D. | přednáška | 2020 (zimní) | 1 | 6 | 0 |
 | doc. Mgr. Jiří Lukavský, Ph.D. | cvičení | 2015, 2018, 2020 (zimní) | 3 | 26 | 0 |
 | doc. Mgr. Jiří Lukavský, Ph.D. | přednáška | 2010, 2013, 2014, 2015, 2018, 2020 (zimní) | 6 | 49 | 0 |
 | doc. Mgr. Cyril Brom, Ph.D. | cvičení | 2013, 2015, 2018 (zimní) | 3 | 26 | 0 |
 | doc. Mgr. Cyril Brom, Ph.D. | přednáška | 2010, 2011, 2013, 2014, 2015, 2018 (zimní) | 6 | 50 | 0 |
+
+### Mgr. Ján Antolík, Ph.D. — přednáška — **učí v ZS 2026/27**
+
+**Učil v letech:** 2020 (zimní)
+
+**V rozvrhu ZS 2026/27:** Čt 9:00–10:30 S4 (přednáška)
+
+Číselně (posledních 1 záznamů od 2019): celkové hodnocení **1,00**, dohromady 6 odpovědí.
+
+| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
+|---|---|---:|---:|---:|---:|
+| 2020 / zimní | přednáška | 6/25 | 1,00 | — | — |
+
+*Žádné připomínky.*
+
+### Studeničová Katarína — cvičení — **učí v ZS 2026/27**
+
+**Učil v letech:** anketa k němu nemá žádné období
+
+**V rozvrhu ZS 2026/27:** Čt 10:40–12:10 S4 (cvičení)
+
+*Číselné hodnocení k téhle dvojici SIS od 2019 nemá.*
+
+*Žádné připomínky.*
 
 ### Připomínky k předmětu jako celku — cvičení
 
@@ -3145,18 +3182,6 @@
 | Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
 |---|---|---:|---:|---:|---:|
 | 2020 / zimní | cvičení | 6/25 | 1,17 | — | — |
-
-*Žádné připomínky.*
-
-### Mgr. Ján Antolík, Ph.D. — přednáška
-
-**Učil v letech:** 2020 (zimní)
-
-Číselně (posledních 1 záznamů od 2019): celkové hodnocení **1,00**, dohromady 6 odpovědí.
-
-| Období | Role | Odpovědělo | Celkové | Srozum. | Obtížnost |
-|---|---|---:|---:|---:|---:|
-| 2020 / zimní | přednáška | 6/25 | 1,00 | — | — |
 
 *Žádné připomínky.*
 

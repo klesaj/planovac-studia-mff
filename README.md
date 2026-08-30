@@ -40,8 +40,11 @@ Claude si načte skill `planovac-studia`, doptá se na zbytek (jak dlouho chceš
 co tě zajímá, jestli chodíš na přednášky) a dál si poradí sám: dotáhne nabídku předmětů
 tvého programu, stáhne data ze SIS a vygeneruje stránku.
 
-**První spuštění trvá jednotky až desítky minut** — stahují se ankety a anotace pro
-každý předmět. Klidně to nech běžet na pozadí.
+**Počítej s desítkami minut až pár hodinami.** Stažení dat ze SIS je otázka minut,
+ale to samo o sobě vyrobí jen hezčí SIS. Ta užitečná část — docházka vytažená ze
+stránek kurzů, sylaby přepsané do odrážek, shrnuté ankety, pokrytí státnic po
+tématech — je práce, kterou dělá Claude, ne skript. Nech ho to doběhnout;
+ve skillu má kontrolní seznam, podle kterého pozná, že je hotový.
 
 ### Co je předvyplněné
 
@@ -52,6 +55,22 @@ si nech nabídku dotáhnout, výchozí by ti připadala děravá.
 
 Ve `data/predmety.csv` je sloupec `zamereni`; podle něj se dá na stránce filtrovat.
 Předmět označený `vse` je společný celému programu a filtrem nezmizí.
+
+Přibalená data nejsou všude stejně hluboká. Ze SIS je staženo **všechno u všech**
+předmětů (anotace, sylaby, rozvrh, ankety). Vrstva, kterou píše agent, je hotová
+u jádra a chybí u předmětů, které byly na okraji původního výběru:
+
+| Vrstva | Pokryto |
+|---|---|
+| Data ze SIS (`sis`, `anotace`, `rozvrh`, `ankety`) | všech 56 |
+| Sylabus a podmínky v odrážkách (`vyklad_*`) | 42 z 56 |
+| Docházka a samostudium (`stranky`) | 40 z 56 |
+| Oblasti pro filtrování (`tagy`) | 50 z 56 |
+| Shrnutí anket k předmětu (`anketa_predmet`) | 17 z 56 |
+| Pokrytí státnic (`szz_*`) | 37 témat zaměření Strojové učení |
+
+Claude to umí doplnit — a při nastavení pro nového uživatele to udělá sám,
+podle kontrolního seznamu ve skillu.
 
 ## Co s tím dál
 

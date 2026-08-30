@@ -16,6 +16,8 @@ NAIL069,cvičení,26aNAIL069x02,Po,9:00,10:30,S1,Švancara Jiří,,liché týdny
 NAIL069,cvičení,26aNAIL069x03,Pá,12:20,13:50,S1,Fink Jiří,,sudé týdny,2026,1
 NAIL069,cvičení,26aNAIL069x04,Pá,12:20,13:50,S1,Fink Jiří,,liché týdny,2026,1
 NAIL069,cvičení,26aNAIL069x05,Pá,9:00,10:30,S8,Mestek Jakub,,sudé týdny,2026,1
+NAIL087,přednáška,26aNAIL087p1,Čt,9:00,10:30,S4,Antolík Ján,1,,2026,1
+NAIL087,cvičení,26aNAIL087x01,Čt,10:40,12:10,S4,Studeničová Katarína,1,,2026,1
 NAIL099,cvičení,26aNAIL099x01,Čt,14:00,15:30,S8,Holeňa Martin,1,liché týdny,2026,1
 NAIL104,přednáška,26aNAIL104p1,Pá,9:00,10:30,S4,Vomlelová Marta,1,,2026,1
 NAIL109,cvičení,26aNAIL109x01,Čt,15:40,17:10,S4,Neruda Roman,1,,2026,1
@@ -33,6 +35,10 @@ NMAI073,přednáška,26aNMAI073p1,St,10:40,12:10,S5,Rozhoň Václav,1,,2026,1
 NMAI073,cvičení,26aNMAI073x01,Út,12:20,13:50,S6,Tkadlec Josef,,,2026,1
 NMAI073,cvičení,26aNMAI073x02,Út,14:00,15:30,S6,Tkadlec Josef,,,2026,1
 NMAI165,cvičení,26aNMAI165x01,St,17:20,18:50,S6,Antoch Jaromír,1,,2026,1
+NMSA331,přednáška,26aNMSA331p1,Po,9:00,10:30,K2,Komárek Arnošt,1,,2026,1
+NMSA331,přednáška,26aNMSA331p1,Út,10:40,12:10,K2,Komárek Arnošt,1,,2026,1
+NMSA331,cvičení,26aNMSA331x01,Po,14:00,15:30,K11,Omelka Marek,,,2026,1
+NMSA331,cvičení,26aNMSA331x02,Po,12:20,13:50,K11,Ranošová Hedvika,,,2026,1
 NOPT021,přednáška,26aNOPT021p1,St,15:40,17:10,S3,Schmid Martin,1,,2026,1
 NPFL097,přednáška,26aNPFL097p1,St,12:20,13:05,S5,Mareček David,1,,2026,1
 NPFL097,cvičení,26aNPFL097x01,St,13:10,13:55,S5,Mareček David,1,,2026,1
@@ -40,6 +46,12 @@ NPFL099,přednáška,26aNPFL099p1,Čt,14:00,15:30,S10,Dušek Ondřej,1,,2026,1
 NPFL099,cvičení,26aNPFL099x01,Čt,15:40,16:25,S10,Dušek Ondřej,1,sudé týdny,2026,1
 NPFL147,přednáška,26aNPFL147p1,Út,10:40,12:10,S5,Pecina Pavel,1,,2026,1
 NPFL147,cvičení,26aNPFL147x01,Út,12:20,13:50,S5,Helcl Jindřich,1,,2026,1
+NPGR002,přednáška,26aNPGR002p1,Út,9:50,12:05,,Flusser Jan,1,,2026,1
+NPGR035,přednáška,26aNPGR035p1,Pá,9:00,10:30,S3,Šikudová Elena,1,,2026,1
+NPGR035,přednáška,26aNPGR035p2,Út,14:00,15:30,S11,Šikudová Elena,1,,2026,1
+NPGR035,cvičení,26aNPGR035x01,Po,12:20,13:50,SW1,Bouali Kassem Anis,,,2026,1
+NPGR035,cvičení,26aNPGR035x02,St,12:20,13:50,SW1,Bouali Kassem Anis,,,2026,1
+NPGR035,cvičení,26aNPGR035x03,Čt,10:40,12:10,SW1,Bouali Kassem Anis,,,2026,1
 NPRG070,cvičení,26aNPRG070x01,St,14:00,15:30,S7,Bednárek David,1,,2026,1
 NSWI035,přednáška,26aNSWI035p1,St,12:20,13:50,S4,Zavoral Filip,1,,2026,1
 NSWI035,přednáška,26aNSWI035p2,Út,10:40,12:10,S6,Faltín Tomáš,1,,2026,1

@@ -12,14 +12,18 @@
 |---|---|---|---|---|---|---|---|
 | 9:00–10:30 | `NAIL069` | Umělá inteligence 1 | cvičení | `26aNAIL069x01` | S1 | Švancara Jiří | sudé týdny |
 | 9:00–10:30 | `NAIL069` | Umělá inteligence 1 | cvičení | `26aNAIL069x02` | S1 | Švancara Jiří | liché týdny |
+| 9:00–10:30 | `NMSA331` | Matematická statistika 1 | přednáška | `26aNMSA331p1` | K2 | Komárek Arnošt |  |
 | 10:40–12:10 | `NAIL069` | Umělá inteligence 1 | přednáška | `26aNAIL069p1` | S3 | Barták Roman |  |
 | 10:40–12:10 | `NTIN066` | Datové struktury 1 | cvičení | `26aNTIN066x02` | S6 | Fink Jiří |  |
 | 10:40–12:10 | `NTIN090` | Základy složitosti a vyčíslitelnosti | přednáška | `26aNTIN090p2` | S4 | Kučera Petr |  |
 | 12:20–13:50 | `NAIL002` | Neuronové sítě | přednáška | `26aNAIL002p1` | S5 | Mrázová Iveta |  |
 | 12:20–13:50 | `NAIL025` | Evoluční algoritmy 1 | cvičení | `26aNAIL025x01` | SU2 | Pilát Martin |  |
+| 12:20–13:50 | `NMSA331` | Matematická statistika 1 | cvičení | `26aNMSA331x02` | K11 | Ranošová Hedvika |  |
+| 12:20–13:50 | `NPGR035` | Strojové učení v počítačovém vidění | cvičení | `26aNPGR035x01` | SW1 | Bouali Kassem Anis |  |
 | 12:20–13:50 | `NTIN066` | Datové struktury 1 | cvičení | `26aNTIN066x07` | S10 | Fink Jiří |  |
 | 14:00–15:30 | `NAIL025` | Evoluční algoritmy 1 | cvičení | `26aNAIL025x03` | SU2 | Pilát Martin |  |
 | 14:00–15:30 | `NAIL069` | Umělá inteligence 1 | přednáška | `26aNAIL069p2` | S5 | Barták Roman |  |
+| 14:00–15:30 | `NMSA331` | Matematická statistika 1 | cvičení | `26aNMSA331x01` | K11 | Omelka Marek |  |
 | 14:00–15:30 | `NTIN090` | Základy složitosti a vyčíslitelnosti | cvičení | `26aNTIN090x01` | S8 | Majerech Vladan | sudé týdny |
 | 14:00–15:30 | `NTIN090` | Základy složitosti a vyčíslitelnosti | cvičení | `26aNTIN090x02` | S8 | Majerech Vladan | liché týdny |
 | 17:20–18:50 | `NAIL004` | Seminář z umělé inteligence 1 | cvičení | `26aNAIL004x01` | S10 | Barták Roman |  |
@@ -28,6 +32,8 @@
 
 | Čas | Kód | Předmět | Typ | Paralelka | Místnost | Vyučující | Pozn. |
 |---|---|---|---|---|---|---|---|
+| 9:50–12:05 | `NPGR002` | Digitální zpracování obrazu | přednáška | `26aNPGR002p1` |  | Flusser Jan |  |
+| 10:40–12:10 | `NMSA331` | Matematická statistika 1 | přednáška | `26aNMSA331p1` | K2 | Komárek Arnošt |  |
 | 10:40–12:10 | `NPFL147` | Statistické metody zpracování přirozených jazyků | přednáška | `26aNPFL147p1` | S5 | Pecina Pavel |  |
 | 10:40–12:10 | `NSWI035` | Principy distribuovaných systémů | přednáška | `26aNSWI035p2` | S6 | Faltín Tomáš |  |
 | 12:20–13:50 | `NAIL116` | Sociální sítě a jejich analýza | přednáška | `26aNAIL116p1` | S4 | Mrázová Iveta |  |
@@ -35,6 +41,7 @@
 | 12:20–13:50 | `NPFL147` | Statistické metody zpracování přirozených jazyků | cvičení | `26aNPFL147x01` | S5 | Helcl Jindřich |  |
 | 12:20–13:50 | `NTIN090` | Základy složitosti a vyčíslitelnosti | přednáška | `26aNTIN090p1` | S3 | Kučera Petr |  |
 | 14:00–15:30 | `NMAI073` | Pravděpodobnost a statistika 2 | cvičení | `26aNMAI073x02` | S6 | Tkadlec Josef |  |
+| 14:00–15:30 | `NPGR035` | Strojové učení v počítačovém vidění | přednáška | `26aNPGR035p2` | S11 | Šikudová Elena |  |
 | 14:00–15:30 | `NTIN066` | Datové struktury 1 | přednáška | `26aNTIN066p1` | S3 | Fink Jiří |  |
 | 17:20–18:50 | `NAIL116` | Sociální sítě a jejich analýza | cvičení | `26aNAIL116x01` | SU2 | Mráz František |  |
 
@@ -52,6 +59,7 @@
 | 12:20–13:50 | `NAIL002` | Neuronové sítě | cvičení | `26aNAIL002x01` | SU2 | Mráz František |  |
 | 12:20–13:50 | `NMAI060` | Pravděpodobnostní metody | přednáška | `26aNMAI060p1` | S8 | Antoch Jaromír |  |
 | 12:20–13:05 | `NPFL097` | Neřízené strojové učení v NLP | přednáška | `26aNPFL097p1` | S5 | Mareček David |  |
+| 12:20–13:50 | `NPGR035` | Strojové učení v počítačovém vidění | cvičení | `26aNPGR035x02` | SW1 | Bouali Kassem Anis |  |
 | 12:20–13:50 | `NSWI035` | Principy distribuovaných systémů | přednáška | `26aNSWI035p1` | S4 | Zavoral Filip |  |
 | 12:20–13:50 | `NTIN090` | Základy složitosti a vyčíslitelnosti | cvičení | `26aNTIN090x06` | S1 | Kučera Petr | liché týdny |
 | 12:20–13:50 | `NTIN090` | Základy složitosti a vyčíslitelnosti | cvičení | `26aNTIN090x07` | S1 | Kučera Petr | sudé týdny |
@@ -67,6 +75,9 @@
 
 | Čas | Kód | Předmět | Typ | Paralelka | Místnost | Vyučující | Pozn. |
 |---|---|---|---|---|---|---|---|
+| 9:00–10:30 | `NAIL087` | Úvod do výpočetní neurovědy I | přednáška | `26aNAIL087p1` | S4 | Antolík Ján |  |
+| 10:40–12:10 | `NAIL087` | Úvod do výpočetní neurovědy I | cvičení | `26aNAIL087x01` | S4 | Studeničová Katarína |  |
+| 10:40–12:10 | `NPGR035` | Strojové učení v počítačovém vidění | cvičení | `26aNPGR035x03` | SW1 | Bouali Kassem Anis |  |
 | 12:20–13:50 | `NAIL025` | Evoluční algoritmy 1 | cvičení | `26aNAIL025x02` | SW2 | Pilát Martin | 15 týdnů |
 | 12:20–13:50 | `NTIN066` | Datové struktury 1 | cvičení | `26aNTIN066x01` | S7 | Fink Jiří |  |
 | 14:00–15:30 | `NAIL099` | Seminář strojového učení a modelování 1 | cvičení | `26aNAIL099x01` | S8 | Holeňa Martin | liché týdny |
@@ -86,6 +97,7 @@
 |---|---|---|---|---|---|---|---|
 | 9:00–10:30 | `NAIL069` | Umělá inteligence 1 | cvičení | `26aNAIL069x05` | S8 | Mestek Jakub | sudé týdny |
 | 9:00–10:30 | `NAIL104` | Pravděpodobnostní grafické modely | přednáška | `26aNAIL104p1` | S4 | Vomlelová Marta |  |
+| 9:00–10:30 | `NPGR035` | Strojové učení v počítačovém vidění | přednáška | `26aNPGR035p1` | S3 | Šikudová Elena |  |
 | 9:00–10:30 | `NTIN066` | Datové struktury 1 | cvičení | `26aNTIN066x03` | S1 | Veselý Pavel |  |
 | 10:40–12:10 | `NAIL002` | Neuronové sítě | cvičení | `26aNAIL002x02` | SU2 | Mráz František |  |
 | 10:40–12:10 | `NAIL025` | Evoluční algoritmy 1 | přednáška | `26aNAIL025p1` | S3 | Neruda Roman |  |
@@ -216,6 +228,18 @@ vrstva C · rozsirujici · Booleovské funkce, 3 kr za 2/0 Zk, jen ústní zkou�
 
 - `26aNAIL021p1` St 9:00–10:30 S11 · **Čepek Ondřej** ✅
 
+### `NAIL087` Úvod do výpočetní neurovědy I — 6 kr, 3/1 Z+Zk
+
+vrstva C · rozsirujici · Úvod do výpočetní neurovědy I — biologické modely neuronů, 6 kr za 3/1.
+
+**Přednáška** — 1 možnost:
+
+- `26aNAIL087p1` Čt 9:00–10:30 S4 · **Antolík Ján** ✅
+
+**Cvičení** — 1 možnost:
+
+- `26aNAIL087x01` Čt 10:40–12:10 S4 · **Studeničová Katarína** ✅
+
 ### `NAIL099` Seminář strojového učení a modelování 1 — 2 kr, 0/1 Z
 
 vrstva C · volitelny · SZZ DZ · Doporučený u okruhu DZ (Holeňa, 0/1 Z). Zápočet až za účast ve dvou různých semestrech.
@@ -294,6 +318,19 @@ vrstva C · volitelny · Praktikum (cvičení) k NMAI060, 3 kr za 0/2 Z — anot
 
 - `26aNMAI165x01` St 17:20–18:50 S6 · **Antoch Jaromír** — anketa 1,71 z 14 odpovědí ✅
 
+### `NMSA331` Matematická statistika 1 — 8 kr, 4/2 Z+Zk
+
+vrstva C · volitelny · Matematická statistika 1 (KPMS, obor Obecná matematika): definice, věty, důkazy. Předpokládá NMSA202/NMSA333. Jediný předmět v sadě, který se učí v Karlíně, ne na Malé Straně.
+
+**Přednáška** — 1 možnost:
+
+- `26aNMSA331p1` Po 9:00–10:30 K2; Út 10:40–12:10 K2 · **Komárek Arnošt** ✅
+
+**Cvičení** — 2 paralelek na výběr:
+
+- `26aNMSA331x01` Po 14:00–15:30 K11 · **Omelka Marek**
+- `26aNMSA331x02` Po 12:20–13:50 K11 · **Ranošová Hedvika**
+
 ### `NOPT021` Algoritmy moderní teorie her — 5 kr, 2/2 Z+Zk
 
 vrstva C · rozsirujici · Algoritmy moderní teorie her, 5 kr, ZS, učí Martin Schmid (autor DeepStacku) — Nash, minimax, fictitious play, regret minimization. SIS si protiřečí (rozsah 2/2 Z+Zk × podmínky „Ústní zkouška“ × rozvrh bez cvičení) → před zápisem se zeptat vyučujícího.
@@ -326,6 +363,29 @@ vrstva C · volitelny · Dušek, ZS: statistické dialogové systémy; obsahový
 
 - `26aNPFL099x01` Čt 15:40–16:25 S10 (sudé týdny) · **Dušek Ondřej** ✅
 
+### `NPGR002` Digitální zpracování obrazu — 4 kr, 3/0 Zk
+
+vrstva C · rozsirujici · Digitální zpracování obrazu (KSVI/CGG).
+
+**Přednáška** — 1 možnost:
+
+- `26aNPGR002p1` Út 9:50–12:05  · **Flusser Jan** ✅
+
+### `NPGR035` Strojové učení v počítačovém vidění — 5 kr, 2/2 Z+Zk
+
+vrstva C · volitelny · Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat.
+
+**Přednáška** — 2 paralelek na výběr:
+
+- `26aNPGR035p1` Pá 9:00–10:30 S3 · **Šikudová Elena** ✅
+- `26aNPGR035p2` Út 14:00–15:30 S11 · **Šikudová Elena** ✅
+
+**Cvičení** — 3 paralelek na výběr:
+
+- `26aNPGR035x01` Po 12:20–13:50 SW1 · **Bouali Kassem Anis**
+- `26aNPGR035x02` St 12:20–13:50 SW1 · **Bouali Kassem Anis**
+- `26aNPGR035x03` Čt 10:40–12:10 SW1 · **Bouali Kassem Anis**
+
 ### `NPRG070` Výzkumný projekt — 9 kr, 0/6 Z
 
 vrstva C · rozsirujici · Výzkumný projekt. NPRG069/070/071 jsou neslučitelné navzájem všechny tři.
@@ -352,11 +412,7 @@ SIS je pro ZS vypsal jako předmět, ale žádný rozvrhový lístek nemají (di
 - `NSZZ025` Diplomová práce III — stav v SIS: **vyučován**
 - `NAIL138` Neuronové sítě, strojové učení a náhodnost — stav v SIS: **vyučován**
 - `NPRG071` Firemní projekt — stav v SIS: **vyučován**
-- `NMSA331` Matematická statistika 1 — stav v SIS: **vyučován**
-- `NPGR035` Strojové učení v počítačovém vidění — stav v SIS: **vyučován**
-- `NPGR002` Digitální zpracování obrazu — stav v SIS: **vyučován**
 - `NDBI031` Statistické metody v systémech pro dobývání znalostí z dat — stav v SIS: **vyučován**
 - `NPFL118` Zpracování přirozeného jazyka na výpočetním clusteru — stav v SIS: **vyučován**
-- `NAIL087` Úvod do výpočetní neurovědy I — stav v SIS: **vyučován**
 - `NTIN114` Proudové algoritmy pro velká data — stav v SIS: **vyučován**
 - `NPRG072` Zvýšený rozsah projektu — stav v SIS: **vyučován**

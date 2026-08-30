@@ -35,8 +35,8 @@ Plus 6 kr uznání z Bc. (NAIL125 + NJAZ202), pokud garant schválí.
 | `NPRG071` | Firemní projekt | 6 | oba | rozsirujici | vyučován | Firemní projekt — schvaluje garant. NPRG069/070/071 jsou neslučitelné navzájem všechny tři. |
 | `NPRG070` | Výzkumný projekt | 9 | oba | rozsirujici | vyučován | Výzkumný projekt. NPRG069/070/071 jsou neslučitelné navzájem všechny tři. |
 | `NMSA331` | Matematická statistika 1 | 8 | zimní | volitelny | vyučován | Matematická statistika 1 (KPMS, obor Obecná matematika): definice, věty, důkazy. Předpokládá NMSA202/NMSA333. Jediný předmět v sadě, který se učí v Karlíně, ne na Malé Straně. |
-| `NPGR035` | Strojové učení v počítačovém vidění | 5 | zimní | - | vyučován | Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat. |
-| `NPGR002` | Digitální zpracování obrazu | 4 | zimní | rozsirujici | vyučován | Neuronové sítě v počítačové grafice; obsahový překryv s NPFL138 (CNN). |
+| `NPGR035` | Strojové učení v počítačovém vidění | 5 | zimní | volitelny | vyučován | Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat. |
+| `NPGR002` | Digitální zpracování obrazu | 4 | zimní | rozsirujici | vyučován | Digitální zpracování obrazu (KSVI/CGG). |
 | `NAIL065` | Evoluční robotika | 4 | letní | profilujici | vyučován | Doporučený u okruhu NS, ale obsahově robotický (evoluční robotika). |
 | `NMAI061` | Metody matematické statistiky | 5 | letní | volitelny | vyučován | Statistika pro informatiky: odhady, testování hypotéz, lineární model. Navazuje na bakalářskou NMAI059. |
 | `NAIL109` | Aplikace metod výpočetní inteligence | 5 | zimní | rozsirujici | vyučován | Neruda/Pilát, 0/4 Z: metaučení, ansámbly, ladění hyperparametrů na reálných datech. Povinná docházka, samostudium podle stránky kurzu nereálné. |
