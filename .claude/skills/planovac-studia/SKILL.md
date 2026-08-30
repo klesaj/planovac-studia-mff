@@ -28,23 +28,53 @@ Když je `true`, repo je uživatelovo a jedeš rovnou na jeho dotaz.
 
 Repo přichází předvyplněné pro program **Informatika – Umělá inteligence**, zaměření
 **Strojové učení**, nástup ZS 2026/2027. To je jen výchozí sada, ne doporučení.
-Zeptej se **jednou, v jednom kole** (nástroj na otázky, ne pět zpráv za sebou):
 
-1. **Program a zaměření.** Který magisterský program a které zaměření studuje.
-   Když neví, nabídni zaměření programu, který si vybral (`data/program.json`,
-   klíč `zamereni`) a řekni, že se to dá změnit kdykoli.
-2. **Kdy nastupuje** (akademický rok a semestr) — určuje, který rozvrh se tahá.
-3. **Jak dlouho chce studovat** — 2 roky standardně, nebo 3 s rozloženým úsekem
-   (`dokumenty/03-jak-prodlouzit-studium.md`).
-4. **Co ho zajímá** — volně, vlastními slovy. Tohle je vstup pro `data/tagy.csv`
-   a pro to, co mu doporučíš.
-5. **Jak studuje** — chodí na přednášky, nebo se učí sám a chodí jen tam, kde se
-   docházka hlídá? Tohle mění, na co se optimalizuje rozvrh: na hodiny, nebo na
+Ptát se musíš, ale **nesmí to být výslech**. Nástroj na otázky bere nejvýš čtyři
+naráz, tak to rozděl na dvě kola a mezi nimi pracuj — druhé kolo se ptá na věci,
+které jsou potřeba až u rozvrhu, ne hned.
+
+### Kolo 1 — bez tohohle nemůžeš začít (výběr z možností)
+
+1. **Program a zaměření.** Nabídni zaměření z `data/program.json` (klíč `zamereni`)
+   plus možnost „jiný program". Když neví, ať vybere program a zaměření odloží —
+   dá se změnit kdykoli.
+2. **Kdy nastupuje** — akademický rok a semestr. Určuje, který rozvrh se tahá.
+3. **Jak dlouho chce studovat** — 2 roky standardně, nebo 3 s rozloženým úsekem.
+   K možnostem připiš důvod, ne jen délku: *„budu při studiu pracovat"* je
+   nejčastější důvod pro tři roky (`dokumenty/03-jak-prodlouzit-studium.md`).
+4. **Jak studuje** — chodí na přednášky × učí se sám a chodí jen tam, kde se
+   docházka hlídá. Tohle mění, na co se optimalizuje rozvrh: na hodiny, nebo na
    **počet dní, kdy musí fyzicky být ve škole**.
-6. **Výpis výsledků z bakaláře.** Popros o něj rovnou, je to jediná věc, kterou
-   nedokážeš zjistit sám, a bez ní neumíš hlídat neslučitelnosti. V SIS:
-   *Výsledky zkoušek – prohlížení → Studijní mezivýsledky → tisk*, vznikne PDF.
-   Postup zpracování je v `references/bakalar.md`.
+
+Hned po prvním kole popros — normální větou, ne nástrojem — o dvě věci:
+
+- **Výpis výsledků z bakaláře.** Jediné, co nezjistíš sám, a bez čeho neumíš hlídat
+  neslučitelnosti. V SIS: *Výsledky zkoušek – prohlížení → Studijní mezivýsledky →
+  tisk*. Zpracování v `references/bakalar.md`. Když ho nedodá hned, **pokračuj**
+  a připomeň se později; blokující to není.
+- **Co ho na oboru zajímá**, volně a vlastními slovy. Tohle je vstup pro `tagy.csv`
+  a pro to, co mu doporučíš. Škatulky mu nepodsouvej.
+
+Pak jeď na runbook. **Nečekej na odpovědi, které nejsou blokující** — konfiguraci,
+nabídku předmětů a scrapery rozjeď mezitím.
+
+### Kolo 2 — až budeš stavět rozvrh
+
+Zeptej se, teprve když máš stažený rozvrh a víš, o čem se rozhoduje. Dřív jsou to
+abstraktní otázky, na které nikdo nemá názor:
+
+1. **Jaký tvar týdne chce.** Ne „kolik hodin", ale **jak mají být dny naskládané**:
+   dva po sobě jdoucí dny na začátku nebo na konci týdne? Zbytek volný kvůli práci?
+   Konkrétní den, který musí zůstat prázdný? U studenta, který nechodí na přednášky,
+   je tohle **nejsilnější kritérium celého rozvrhu** — a přijde na něj řeč, jen
+   když se zeptáš.
+2. **Jestli mu vadí angličtina.** Část předmětů má paralelky vedené jen anglicky
+   (`data/listky.csv`, sloupec s jazykem). Někomu je čas a vyučující přednější,
+   někomu ne.
+3. **Ranní × pozdní hodiny.** Cvičení v 17:20 je jiná věc pro toho, kdo dojíždí.
+4. **Kde bydlí / odkud dojíždí**, pokud jsou v nabídce předměty v jiné budově.
+   Většina výuky informatiky je na Malé Straně, ale matematické předměty bývají
+   v Karlíně a přesun mezi nimi se do rozvrhu nevejde vždycky.
 
 Pak jeď podle **`references/prvni-spusteni.md`** — je to runbook krok za krokem
 (konfigurace → nabídka předmětů → scrapery → agentní vrstva → kontrola proti

@@ -61,9 +61,14 @@ do vrstvy `X` s důvodem. Předmět s prázdným názvem znamená špatný kód.
 Bez tohohle kroku je stránka jen hezčí SIS. Pravidla a formáty jsou
 v `agentni-vrstva.md`; tady je pořadí a rozvržení práce.
 
-Rozděl předměty do dávek po zhruba osmi a pusť na ně agenty **paralelně**. Jeden
-agent = jedna dávka a **jeden soubor**, ne všechny soubory k jednomu předmětu —
-míchání formátů v jedné hlavě je nejčastější zdroj chyb. Pořadí podle užitečnosti:
+U celého programu (desítky předmětů) se to bez paralelizace protáhne: rozděl
+předměty do dávek po zhruba osmi a pusť na ně agenty. Jeden agent = jedna dávka
+a **jeden soubor**, ne všechny soubory k jednomu předmětu — míchání formátů v jedné
+hlavě je nejčastější zdroj chyb. Kdy se to vyplatí a kterým modelem co pouštět,
+je v `agentni-vrstva.md`, sekce „Kdy vůbec pouštět agenty" a „Kterým modelem".
+U malého doplnění (pár předmětů) to udělej sám, fan-out by byl dražší než užitek.
+
+Pořadí podle užitečnosti:
 
 1. **`stranky.csv`** — docházka a reálnost samostudia. Nejdražší a nejcennější,
    protože tohle SIS neříká a rozhoduje to o celém rozvrhu. Jak sehnat zdroje

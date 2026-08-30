@@ -184,9 +184,45 @@ nenašel, nebo si to bude muset nastudovat sám.
 
 ## Ověřování
 
+### Kdy vůbec pouštět agenty
+
+Fan-out není zadarmo: každý agent startuje bez kontextu a musí si ho odvodit znovu,
+takže se platí za to, co ty už víš. Rozhoduj podle objemu, ne ze zvyku:
+
+| Situace | Co udělat |
+|---|---|
+| pár předmětů (do zhruba deseti) | **udělej to sám**, fan-out se nevyplatí |
+| celý program nebo zaměření (desítky předmětů) | rozděl mezi agenty |
+| jednorázová oprava, doplnění jednoho řádku | sám |
+| `stranky.csv` pro víc než deset předmětů | agenti, je to nejpomalejší část |
+
+Ptej se sám sebe, jestli je práce **opravdu paralelní**. Sylaby a ankety ano —
+předměty na sobě nezávisí. Pokrytí státnic (`szz_*`) spíš ne: potřebuje přehled
+přes celou nabídku najednou, rozsekané po dávkách vyjde hůř, než když to uděláš vcelku.
+
+A ber ohled na to, že uživatel platí. Když si nejsi jistý, jestli se rozsah vyplatí,
+**řekni mu, kolik toho je, a nech ho rozhodnout** — třeba mu stačí jádro plánu
+a zbytek nechá na později.
+
+### Kterým modelem
+
+- **`stranky.csv`** — nejsilnějším, co máš (Opus). Je to jediný soubor, kde se
+  rozhoduje z neúplných a protiřečících si zdrojů a kde chyba stojí zápočet.
+  Sem slabší model nedávej.
+- **`szz_temata.csv` / `szz_pokryti.csv`** — taky Opus. Rozhodnout, jestli sylabus
+  opravdu pokrývá téma státnice, je úsudek, ne přepis.
+- **`vyklad_*.csv`, `anketa_shrnuti.csv`, `anketa_predmet.csv`** — středním modelem
+  (Sonnet). Je to práce se zdrojem, který už máš stažený; hlavní riziko jsou čísla,
+  a to ošetří kontrola po dávce, ne velikost modelu.
+- **`tagy.csv`** — klidně nejlevnějším. Přiřadit dva až čtyři tagy ze zavřeného
+  slovníku je mechanické.
+
 ### Jak rozvrhnout práci mezi agenty
 
 U větší nabídky se to bez paralelizace protáhne. Rozděl to takhle:
+
+- **Najednou nech běžet zhruba tři až pět agentů.** Víc se hůř kontroluje a stejně
+  to nezrychlí — úzké hrdlo je stahování stránek, ne tvoje čekání.
 
 - **Jeden agent = jedna dávka předmětů (zhruba osm) a jeden cílový soubor.**
   Nedávej jednomu agentovi „všechno o pěti předmětech" — formáty se pletou.
