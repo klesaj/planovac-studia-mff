@@ -63,6 +63,14 @@ def semestr(default=("2026", "1")):
     return s.get("skr", default[0]), s.get("sem", default[1])
 
 
+def oblasti(default=None):
+    """[(slug, popisek), ...] tematickych oblasti pro filtrovani dlazdic."""
+    o = CFG.get("oblasti")
+    if not o:
+        return default or []
+    return [(k, v) for k, v in o.items() if not k.startswith("_")]
+
+
 def zamereni_seznam():
     """[(kod, nazev), ...] vsech zamereni v konfiguraci."""
     return [(k, v.get("nazev", k)) for k, v in CFG.get("zamereni", {}).items()]

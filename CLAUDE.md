@@ -13,9 +13,14 @@ daty ze SIS. Tenhle soubor je jen rozcestník.
 
 ## Jak navázat
 
-1. Zjisti, jestli je repo nastavené:
+1. **Zjisti hned na začátku, jestli je repo nastavené:**
    `python3 -c "import json;print(json.load(open('data/program.json'))['_nastaveno'])"`
-   Když `False`, jde o první spuštění → skill `planovac-studia`, sekce „První spuštění".
+
+   Když je `False`, repo je **čerstvě naklonovaná šablona a ještě nepatří tomuhle
+   uživateli**. Načti skill `planovac-studia` a začni sekcí „První spuštění" —
+   nabídni nastavení sám, i když se uživatel zeptal na něco jiného. Data, která
+   v repu jsou, jsou cizí (zaměření Strojové učení) a bez upozornění by je bral
+   za svoje.
 2. Přečti `README.md` a `10-predmety-tabulka.md` (aktuální bilance kreditů a plán).
 3. Data v `data/*.csv` jsou stažená ze SIS. **Netahej je znovu**, pokud o to student
    nepožádá nebo neuplynul čas — rozvrh se během léta ještě mění.
@@ -46,6 +51,7 @@ daty ze SIS. Tenhle soubor je jen rozcestník.
 | `zdroje/` | Cache scraperů: stažené HTML ze SIS, CSV rozvrhů, ankety, výtahy stránek kurzů. **Není v gitu**, natáhne se sama |
 | `artifact/plan.html` | Generovaná stránka, publikuje se jako Artifact na stále stejnou cestu |
 | `tools/` | Scrapery a generátory. `program.py` je loader konfigurace |
+| `data/absolvovane.csv` | Výpis z bakaláře, pokud ho uživatel dodal. **Osobní údaj — nekomituj a při předání repa dál smaž.** |
 
 Surové stažené soubory patří do `zdroje/`, nikdy ne do `data/`.
 
@@ -53,6 +59,8 @@ Surové stažené soubory patří do `zdroje/`, nikdy ne do `data/`.
 
 Ruční (rozhodnutí studenta): `data/program.json`, `data/predmety.csv`,
 `data/relevance.csv`, `data/rozvrh_vyber.csv`, `data/ankety.csv`.
+
+Import z výpisu ze SIS: `data/absolvovane.csv` (`tools/absolvovane.py`).
 
 Scrapované: `sis.csv`, `rozvrh.csv`, `ucitele.csv`, `anotace.csv`, `listky.csv`,
 `anketa_cisla.csv`, `anketa_komentare.csv`, `anketa_souhrn.csv`, `ucitele_historie.csv`.

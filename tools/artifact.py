@@ -9,7 +9,7 @@ Stranka ma dve urovne:
 Prepinani je pres #hash, takze detail predmetu ma vlastni odkaz a funguje zpet/vpred.
 Publikuje se nastrojem Artifact na stalou URL (viz CLAUDE.md).
 """
-import csv, html, json, os, re
+import csv, html, json, os, re, sys
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -58,13 +58,14 @@ DOCHAZKA = {
     "nezjisteno": ("docházka nezjištěna", "Nepodařilo se dohledat, ověř před zápisem.", "neutral"),
 }
 # siroke tematicke oblasti pro filtrovani dlazdic (data/tagy.csv, pise agent)
-TAGY = [("ml", "strojové učení"), ("nn", "neuronové sítě"), ("nlp", "jazyk a text"),
-        ("videni", "obraz a vidění"), ("rl", "zpětnovazební učení"),
-        ("stat", "pravděpodobnost a statistika"), ("data", "data a znalosti"),
-        ("evoluce", "evoluce a optimalizace"), ("grafy", "grafy a sítě"),
-        ("teorie", "teorie a algoritmy"), ("ai", "klasická UI"),
-        ("bio", "bio a neurověda"), ("praxe", "projekty a praxe"),
-        ("diplomka", "diplomka")]
+TAGY = _cfg.oblasti(
+    [("ml", "strojové učení"), ("nn", "neuronové sítě"), ("nlp", "jazyk a text"),
+     ("videni", "obraz a vidění"), ("rl", "zpětnovazební učení"),
+     ("stat", "pravděpodobnost a statistika"), ("data", "data a znalosti"),
+     ("evoluce", "evoluce a optimalizace"), ("grafy", "grafy a sítě"),
+     ("teorie", "teorie a algoritmy"), ("ai", "klasická UI"),
+     ("bio", "bio a neurověda"), ("praxe", "projekty a praxe"),
+     ("diplomka", "diplomka")])
 NAZEV_TAGU = dict(TAGY)
 SEMESTR_CIP = {"zimní": "zimní semestr", "letní": "letní semestr", "oba": "zimní i letní"}
 NAHRAVKY = {"ano": "nahrávky přednášek", "castecne": "materiály částečně",
@@ -117,6 +118,10 @@ def data():
     tagy = {r["kod"]: [t.strip() for t in (r["tagy"] or "").split("|") if t.strip()]
             for r in nacti("tagy.csv")}
     ank_predmet = {r["kod"]: r for r in nacti("anketa_predmet.csv")}
+    # vypis z bakalare je nepovinny; kdyz chybi, kontroly se proste nezobrazi
+    hotove = {r["kod"] for r in nacti("absolvovane.csv") if r.get("stav") == "splněno"}
+    nedokoncene = {r["kod"] for r in nacti("absolvovane.csv")
+                   if r.get("stav") and r["stav"] != "splněno"}
     shrnuti = defaultdict(list)
     for r in nacti("anketa_shrnuti.csv"):
         shrnuti[(r["kod"], klic(r["vyucujici"]), r["role"])].append(r)
@@ -138,6 +143,10 @@ def data():
             "neslucitelnost": s.get("neslucitelnost", ""),
             "zkratka": rel.get(k, {}).get("zkratka") or s.get("nazev", k),
             "relevance": rel.get(k, {}).get("relevance", ""),
+            "bc_kolize": sorted({m for m in re.findall(r"N[A-Z]{2,4}\d{3}",
+                                                      s.get("neslucitelnost", ""))
+                                 if m in hotove}),
+            "bc_hotovy": k in hotove, "bc_nedokonceny": k in nedokoncene,
             "anotace": a.get("anotace", ""), "sylabus": a.get("sylabus", ""),
             "podminky": a.get("podminky", ""), "vyklad": vyklad.get(k, {}),
             "stranka": stranky.get(k, {}),
@@ -280,6 +289,12 @@ def dlazdice(k):
         chips.append(cip(f'SZZ · {SZZ.get(k["szz"], k["szz"])}', "szz"))
     if k["stav_sis"] == "nevyučován":
         chips.append(cip("nevyučován", "varovani"))
+    if k["bc_kolize"]:
+        chips.append(cip("neslučitelný s Bc.", "varovani"))
+    elif k["bc_hotovy"]:
+        chips.append(cip("už máš splněný", "varovani"))
+    elif k["bc_nedokonceny"]:
+        chips.append(cip("z Bc. nedokončený", "nahravky-chip"))
     jinde = sorted({budova(b["mistnost"])[0] for b in k["bloky"]} - {"", "Malá Strana"})
     for b in jinde:
         chips.append(cip(b, "budova-chip"))
@@ -316,6 +331,13 @@ def dlazdice(k):
 def sekce_dlazdic(zive):
     """Dlazdice po skupinach predmetu (povinne / profilujici / ...), ne podle rozvrhu."""
     out = []
+    znama = {slug for slug, _, _ in SKUPINY}
+    bez_skupiny = sorted(k["kod"] for k in zive if k["skupina"] not in znama)
+    if bez_skupiny:
+        print(f"POZOR: {len(bez_skupiny)} předmětů má neznámou skupinu a nebude vidět "
+              f"mezi dlaždicemi: {', '.join(bez_skupiny)}\n"
+              f"       Doplň skupinu v data/predmety.csv ({', '.join(sorted(znama))}).",
+              file=sys.stderr)
     for slug, nazev, minimum in SKUPINY:
         vybrane = sorted([k for k in zive if k["skupina"] == slug],
                          key=lambda k: (k["vrstva"], -k["kredity"], k["zkratka"]))
@@ -363,8 +385,13 @@ def filtr_tagu(zive):
         f'<button type="button" class="tag-tlac" data-tag="{slug}">{E(nazev)}'
         f'<span class="tag-pocet">{pocty[slug]}</span></button>'
         for slug, nazev in TAGY if pocty[slug])
-    if not chipy:
+    zam = prepinac_zamereni(zive)
+    # hledani a prepinace davaji smysl i bez tagu a zamereni — filtr se schova,
+    # az kdyz neni co filtrovat vubec (tzn. zadne dlazdice)
+    if not zive:
         return ""
+    radek_tagu = (f'<div class="filtr-radek chipy tagy-radek">{chipy}</div>'
+                  if chipy else "")
     return f"""      <div class="filtr filtr-dlazdic">
         <div class="filtr-radek">
           <input type="search" id="hledani" placeholder="hledat: název, kód, oblast"
@@ -375,8 +402,8 @@ def filtr_tagu(zive):
           <button type="button" class="filtr-tlac" id="tagy-vse">zrušit filtr</button>
           <span class="filtr-stav" id="dlazdice-stav"></span>
         </div>
-        {prepinac_zamereni(zive)}
-        <div class="filtr-radek chipy tagy-radek">{chipy}</div>
+        {zam}
+        {radek_tagu}
       </div>"""
 
 
@@ -599,6 +626,17 @@ def detail(k, kurzy):
     if k["stav_sis"] == "nevyučován":
         varovani = ('<p class="varovani-pruh">SIS vede tenhle předmět jako '
                     '<b>nevyučovaný</b> — počítat s tím, že se neotevře.</p>')
+    if k["bc_kolize"]:
+        varovani += ('<p class="varovani-pruh">V SIS je uvedený jako '
+                     '<b>neslučitelný</b> s předmětem, který už máš z bakaláře '
+                     f'splněný ({", ".join(E(x) for x in k["bc_kolize"])}) — '
+                     'zapsat si ho nejde.</p>')
+    elif k["bc_hotovy"]:
+        varovani += ('<p class="varovani-pruh">Tenhle předmět už máš podle výpisu '
+                     '<b>splněný z bakaláře</b>.</p>')
+    elif k["bc_nedokonceny"]:
+        varovani += ('<p class="jinde-pruh">V bakaláři jsi ho měl <b>zapsaný '
+                     'a nedokončený</b> — zapsat se dá znovu.</p>')
     v = k["vyklad"]
     obsah = ""
     if k["anotace"] or k["sylabus"] or v:

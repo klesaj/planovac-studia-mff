@@ -8,3 +8,6 @@ node_modules/
 
 # Lokální nastavení Claude Code (permise navíc, MCP servery)
 .claude/settings.local.json
+
+# Výpis výsledků z bakaláře — osobní údaj, patří jen do lokální kopie
+data/absolvovane.csv

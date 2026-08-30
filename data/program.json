@@ -111,5 +111,22 @@
         "NAIL078"
       ]
     }
+  },
+  "oblasti": {
+    "_komentar": "Tematické oblasti pro filtrování dlaždic (data/tagy.csv). Výchozí sada je pro umělou inteligenci; pro jiný program ji přepiš. Klíč je slug používaný v tagy.csv, hodnota je popisek na chipu.",
+    "ml": "strojové učení",
+    "nn": "neuronové sítě",
+    "nlp": "jazyk a text",
+    "videni": "obraz a vidění",
+    "rl": "zpětnovazební učení",
+    "stat": "pravděpodobnost a statistika",
+    "data": "data a znalosti",
+    "evoluce": "evoluce a optimalizace",
+    "grafy": "grafy a sítě",
+    "teorie": "teorie a algoritmy",
+    "ai": "klasická UI",
+    "bio": "bio a neurověda",
+    "praxe": "projekty a praxe",
+    "diplomka": "diplomka"
   }
 }

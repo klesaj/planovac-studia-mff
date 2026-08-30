@@ -41,6 +41,10 @@ Zeptej se **jednou, v jednom kole** (nástroj na otázky, ne pět zpráv za sebo
 5. **Jak studuje** — chodí na přednášky, nebo se učí sám a chodí jen tam, kde se
    docházka hlídá? Tohle mění, na co se optimalizuje rozvrh: na hodiny, nebo na
    **počet dní, kdy musí fyzicky být ve škole**.
+6. **Výpis výsledků z bakaláře.** Popros o něj rovnou, je to jediná věc, kterou
+   nedokážeš zjistit sám, a bez ní neumíš hlídat neslučitelnosti. V SIS:
+   *Výsledky zkoušek – prohlížení → Studijní mezivýsledky → tisk*, vznikne PDF.
+   Postup zpracování je v `references/bakalar.md`.
 
 Pak proveď v tomhle pořadí:
 
@@ -63,6 +67,7 @@ Teprve pak se dá plánovat.
 | Uživatel chce | Kde je postup |
 |---|---|
 | přidat předmět / celý program / jiné zaměření | `references/pridani-predmetu.md` |
+| načíst výpis z bakaláře, řešit uznávání kreditů | `references/bakalar.md` |
 | aktualizovat data ze SIS, nový semestr rozvrhu | `references/datova-vrstva.md` |
 | doplnit sylaby, ankety, docházku u nových předmětů | `references/agentni-vrstva.md` |
 | přegenerovat a publikovat stránku | `references/stranka.md` |
@@ -86,7 +91,8 @@ Co musí sedět, a po každé změně to znovu přepočítej:
 - **Semestr výuky.** Předmět z `data/sis.csv` se sloupcem `semestr` = `zimní`
   nesmí být v `LS*` a naopak. Časté a snadno přehlédnutelné.
 - **Neslučitelnosti** (`neslucitelnost` v `data/sis.csv`) — proti sobě navzájem
-  i proti tomu, co má uživatel z bakaláře.
+  i proti tomu, co má uživatel z bakaláře. Když je načtený výpis, ověř to strojově:
+  `python3 tools/absolvovane.py --kontrola`. Bez výpisu se **zeptej**, nehádej.
 - **Pokrytí státnicových okruhů** — `data/szz_temata.csv` × `data/szz_pokryti.csv`.
   Díru hlas jako díru, nezakrývej ji předmětem, který téma jen ťukne.
 - **Docházka** (`data/stranky.csv`). U předmětů s `povinna` nebo `bodovana` musí

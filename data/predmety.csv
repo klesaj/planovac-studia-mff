@@ -30,7 +30,7 @@ NAIL086,C,IA,profilujici,-,,,"Patří k okruhu Přírodou inspirované počítá
 NPRG071,C,vse,rozsirujici,-,,,Firemní projekt — schvaluje garant. NPRG069/070/071 jsou neslučitelné navzájem všechny tři.
 NPRG070,C,vse,rozsirujici,-,,,Výzkumný projekt. NPRG069/070/071 jsou neslučitelné navzájem všechny tři.
 NMSA331,C,vse,volitelny,-,,,"Matematická statistika 1 (KPMS, obor Obecná matematika): definice, věty, důkazy. Předpokládá NMSA202/NMSA333. Jediný předmět v sadě, který se učí v Karlíně, ne na Malé Straně."
-NPGR035,C,vse,-,-,,,"Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat."
+NPGR035,C,vse,volitelny,-,,,"Pozor: v SIS uvedená neslučitelnost s NPFL129 (bakalářský Úvod do strojového učení). Kdo NPFL129 má, nemůže si ho zapsat."
 NPGR002,C,vse,rozsirujici,-,,,"Neuronové sítě v počítačové grafice; obsahový překryv s NPFL138 (CNN)."
 NAIL065,C,SU,profilujici,NS,,,"Doporučený u okruhu NS, ale obsahově robotický (evoluční robotika)."
 NMAI061,C,vse,volitelny,-,,,"Statistika pro informatiky: odhady, testování hypotéz, lineární model. Navazuje na bakalářskou NMAI059."
